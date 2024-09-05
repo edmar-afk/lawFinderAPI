@@ -15,3 +15,5 @@ class UserSerializer(serializers.ModelSerializer):
         return user
     
 
+class ChatbotSerializer(serializers.Serializer):
+    question = serializers.CharField()
