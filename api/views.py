@@ -11,11 +11,18 @@ from django.http import FileResponse, Http404
 from django.shortcuts import get_object_or_404
 from django.views import View
 from rest_framework.decorators import api_view
-import json
-from difflib import get_close_matches
 from django.conf import settings
-import os
 BASE_DIR = settings.BASE_DIR
+
+
+import os
+import json
+import logging
+from typing import Optional, List
+from sentence_transformers import SentenceTransformer, util
+from rest_framework import viewsets, status
+from rest_framework.response import Response
+from .serializers import ChatbotSerializer
 
 class CreateUserView(generics.CreateAPIView):
     queryset = User.objects.all()
@@ -72,29 +79,49 @@ class UserDetailView(generics.RetrieveAPIView):
 
 
 
-    
-# Load the knowledge base from a JSON file
-def load_knowledge_base(file_path: str):
-    full_path = os.path.join(BASE_DIR, file_path)
-    with open(full_path, 'r') as file:
-        data = json.load(file)
-    return data
 
-# Save the updated knowledge base to the JSON file
-def save_knowledge_base(file_path: str, data: dict):
-    full_path = os.path.join(BASE_DIR, file_path)
-    with open(full_path, 'w') as file:
-        json.dump(data, file, indent=2)
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+def load_knowledge_base(file_path: str) -> dict:
+    try:
+        full_path = os.path.join(BASE_DIR, file_path)
+        with open(full_path, 'r') as file:
+            return json.load(file)
+    except Exception as e:
+        logger.error(f"Error loading knowledge base: {e}")
+        return {}
+
+def save_knowledge_base(file_path: str, data: dict) -> None:
+    try:
+        full_path = os.path.join(BASE_DIR, file_path)
+        with open(full_path, 'w') as file:
+            json.dump(data, file, indent=2)
+    except Exception as e:
+        logger.error(f"Error saving knowledge base: {e}")
+
+model = SentenceTransformer('all-MiniLM-L6-v2')
 
 
-def find_best_match(user_question: str, questions: list[str]) -> str | None:
-    matches = get_close_matches(user_question, questions, n=1, cutoff=0.6)
-    return matches[0] if matches else None
+def encode_questions(questions: List[str]) -> List:
+    return model.encode(questions, convert_to_tensor=True)
 
-def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
-    for q in knowledge_base["questions"]:
-        if q["question"] == question:
-            return q["answer"]
+
+def find_best_match(user_question: str, questions: List[str]) -> Optional[str]:
+    user_question_embedding = model.encode(user_question, convert_to_tensor=True)
+    question_embeddings = encode_questions(questions)
+    similarities = util.pytorch_cos_sim(user_question_embedding, question_embeddings)
+    most_similar_idx = similarities.argmax()
+    return questions[most_similar_idx] if similarities.max() > 0.5 else None
+
+
+def get_answer_for_question(user_question: str, knowledge_base: dict) -> Optional[str]:
+    questions = [q.get("question") for q in knowledge_base.get("questions", [])]
+    best_match = find_best_match(user_question, questions)
+    if best_match:
+        for q in knowledge_base.get("questions", []):
+            if q.get("question") == best_match:
+                return q.get("answer")
     return None
 
 class ChatbotViewSet(viewsets.ViewSet):
@@ -105,10 +132,9 @@ class ChatbotViewSet(viewsets.ViewSet):
         if serializer.is_valid():
             user_question = serializer.validated_data['question']
             knowledge_base = load_knowledge_base('knowledge_base.json')
-            best_match = find_best_match(user_question, [q["question"] for q in knowledge_base["questions"]])
+            answer = get_answer_for_question(user_question, knowledge_base)
 
-            if best_match:
-                answer = get_answer_for_question(best_match, knowledge_base)
+            if answer:
                 return Response({'answer': answer}, status=status.HTTP_200_OK)
             else:
                 return Response({'answer': "I don't understand the question."}, status=status.HTTP_200_OK)
