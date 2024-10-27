@@ -1,0 +1,2099 @@
+{	"questions": [
+	{
+		"question": "What is the color of the sky?",
+		"answer": "Blue"
+	},
+	{
+		"question": "how are you",
+		"answer": "I'm doing great!"
+	},
+	{
+		"question": "How are you doing mate?",
+		"answer": "I'm doing good"
+	},
+	{
+		"question": "What's up?^",
+		"answer": "Not much, what about you?"
+	},
+	{
+		"question": "Where can I subscribe?",
+		"answer": "Idk, subscribe to what?"
+	},
+	{
+		"question": "Say something funny",
+		"answer": "Your love life"
+	},
+	{
+		"question": "tell me more",
+		"answer": "I don't want to"
+	},
+	{
+		"question": "ok",
+		"answer": "ok?"
+	},
+	{
+		"question": "hello",
+		"answer": "Hello, how can I help you?"
+	},
+	{
+		"question": "I need help of something",
+		"answer": "What something? Please be more specific so I can assist you."
+	},
+	{
+		"question": "can you help me?",
+		"answer": "Sure, just tell me what kind of help"
+	},
+	{
+		"question": "Good morning",
+		"answer": "Hello, Good morning"
+	},
+	{
+		"question": "hello good afternoon mate",
+		"answer": "Good afternoon"
+	},
+	{
+		"question": "Good day, mate",
+		"answer": "Good day to you too! How can I assist you today?"
+	},
+	{
+		"question": "bye",
+		"answer": "Goodbye! If you have any more questions in the future, feel free to ask. Have a great day!"
+	},
+	{
+		"question": "Cool",
+		"answer": "I'm Cool"
+	},
+	{
+		"question": "hi",
+		"answer": "hello"
+	},
+	{
+		"question": "hey",
+		"answer": "Hey there!"
+	},
+	{
+		"question": "hey",
+		"answer": "Hey there again!"
+	},
+	{
+		"question": "Unsa ang VAWC?",
+		"answer": "Ang VAWC nagpasabot sa 'Violence Against Women and Children' o Kapintas batok sa Kababayen-an ug mga Bata. Kini naglangkob sa bisan unsang matang sa pisikal, sekswal, o emosyonal nga kapintas nga nabuhat batok sa kababayen-an ug mga bata."
+	},
+	{
+		"question": "Unsa nga mga matang sa kapintas ang sakop sa VAWC?",
+		"answer": "Ang VAWC naglangkob sa pisikal nga kapintas, sekswal nga kapintas, sikolohikal o emosyonal nga abuso, ug ekonomikanhong pag-abuso."
+	},
+	{
+		"question": "Unsa ang buhaton kung biktima ka sa VAWC?",
+		"answer": "Kung biktima ka sa VAWC, mahimo kang mokonsulta sa mga pulis, barangay, o sa mga social welfare offices para makakuha og tabang. Mahimo ka usab nga mokonsulta sa mga NGO nga naghatag og suporta sa mga biktima sa VAWC."
+	},
+	{
+		"question": "Unsa ang RA 9262?",
+		"answer": "Ang RA 9262 o 'Anti-Violence Against Women and Their Children Act of 2004' usa ka balaod nga nagpanalipod batok sa bisan unsang matang sa kapintas nga gibuhat batok sa kababayen-an ug mga bata."
+	},
+	{
+		"question": "Kinsay pwede maka-file og kaso sa ilawom sa RA 9262?",
+		"answer": "Ang kababayen-an ug mga anak nga biktima sa kapintas sa ilang kapikas o ginikanan ang mahimong maka-file og kaso ilawom sa RA 9262."
+	},
+	{
+		"question": "Asa makapangayo og tabang para sa VAWC?",
+		"answer": "Mahimo kang mokonsulta sa imong barangay o kapulisan, o adto sa Department of Social Welfare and Development (DSWD) para sa dugang nga suporta ug proteksyon. Ang mga NGO nga nagsuporta sa mga biktima sa kapintas mahimo usab nga makatabang."
+	},
+	{
+		"question": "Unsa ang mga penalty sa VAWC?",
+		"answer": "Ang mga kasong nalambigit sa VAWC adunay mga silot nga magdepende sa grabeng epekto sa kapintas. Kini maglakip sa priso, multa, ug pagsuporta sa mga biktima alang sa ilang recovery."
+	},
+	{
+		"question": "Unsaon pagprotekta sa mga bata batok sa kapintas?",
+		"answer": "Mahimo nga mokuha og mga protective order sa korte aron mapanalipdan ang mga bata. Importante usab ang pagsulti sa kapulisan ug barangay kung adunay mga panghitabo sa kapintas aron madali matabangan ang mga biktima."
+	},
+	{
+		"question": "Kinsa ang mga ahensya nga makatabang sa VAWC?",
+		"answer": "Ang mga kapulisan, barangay, ug ang Department of Social Welfare and Development (DSWD) ang mga pangunahang ahensya nga makatabang sa mga biktima sa VAWC. Ang mga NGO ug mga opisina sa mga kababayen-an makatabang usab."
+	},
+	{
+		"question": "Naa ba ko'y katungod nga mokonsulta og abogado alang sa kaso sa VAWC?",
+		"answer": "Oo, aduna kay katungod nga mokonsulta og abogado aron mas masabtan ang imong katungod ug mga proseso alang sa kaso nga imong gustong i-file."
+	},
+	{
+		"question": "Unsa ang mga pamaagi aron malikayan ang VAWC?",
+		"answer": "Ang edukasyon ug kamatuoran bahin sa mga katungod sa kababayen-an ug mga bata makatabang aron malikayan ang kapintas. Ang paghatag og suporta sa mga biktima ug pagpasaka sa awareness sa katilingban bahin sa VAWC importante usab."
+	},
+	{
+		"question": "Unsa akong buhaton kung akong makita nga adunay kapintas sa akong palibot?",
+		"answer": "Kung adunay kang makita nga kapintas sa imong palibot, mahimo kang moinformar sa kapulisan o barangay aron madali matabangan ang biktima. Importante nga dili ka magpanuko sa pagpahibalo sa mga awtoridad."
+	},
+	{
+		"question": "Kung akong bana moinsulto ug mobugalbugal kanunay nako, apil ba kini sa VAWC?",
+		"answer": "Oo, ang pagbuhat og mga insulto ug pagbugalbugal kanunay gilangkuban sa emosyonal ug sikolohikal nga kapintas, nga sakop sa VAWC."
+	},
+	{
+		"question": "Unsa akong buhaton kung gipalayas ko sa akong bana ug walay kwarta?",
+		"answer": "Mahimo kang mokonsulta sa barangay o kapulisan, ug mahimo usab nga mopetisyon og proteksyon sa korte aron malikayan ang pag-abuso sa ekonomikanhong aspeto sa inyong relasyon."
+	},
+	{
+		"question": "Giingnan ko sa akong bana nga dili ko pwede mogawas sa balay. Sakop ba kini sa VAWC?",
+		"answer": "Oo, ang paglimitar sa imong kagawasan nga walay klarong rason ug pagtanggong kanimo sa balay usa ka matang sa emosyonal nga kapintas nga sakop sa VAWC."
+	},
+	{
+		"question": "Kung ang akong anak giingnan sa iyang amahan nga dili siya maayo, sakop ba kini sa VAWC?",
+		"answer": "Oo, ang pagsulti og dautan nga makapasakit sa emosyon ug kahimsog sa anak sakop sa VAWC ilawom sa sikolohikal nga abuso."
+	},
+	{
+		"question": "Unsa akong buhaton kung ang akong bana kanunay nga magduda nako ug dili gusto nga motrabaho ko?",
+		"answer": "Mahimo kang mangayo og tambag gikan sa mga pulis, barangay, o sa DSWD. Kini nga pagpugong sa imong kagawasan ug karera sakop sa VAWC ilawom sa emosyonal ug ekonomikanhong abuso."
+	},
+	{
+		"question": "Kung ang amahan sa akong anak walay suporta sa pinansyal, apil ba kini sa VAWC?",
+		"answer": "Oo, ang pag-abandona sa responsibilidad sa pinansyal alang sa inyong anak sakop sa ekonomikanhong abuso nga gibawal sa VAWC."
+	},
+	{
+		"question": "Kung makita nako nga adunay lalaki nga nagbugalbugal sa iyang asawa, unsa akong buhaton?",
+		"answer": "Mahimo kang mo-report niini sa barangay o kapulisan aron matabangan ang biktima sa kapintas ug mapanalipdan siya sa mas grabeng sitwasyon."
+	},
+	{
+		"question": "Unsa akong buhaton kung ang akong bana kanunay nga mopatid ug mogunit kanako sa sakit nga pamaagi?",
+		"answer": "Kini usa ka matang sa pisikal nga kapintas. Mahimo kang mokonsulta sa barangay o kapulisan para sa proteksyon ug mopetisyon og protektibong mando gikan sa korte."
+	},
+	{
+		"question": "Giingnan ko sa akong bana nga dili nako makita akong pamilya. Apil ba kini sa VAWC?",
+		"answer": "Oo, ang paglimitar sa imong kontak sa imong pamilya ug mga higala usa ka matang sa emosyonal ug sikolohikal nga abuso nga sakop sa VAWC."
+	},
+	{
+		"question": "Kung akong bana sigeg bira sa akong buhok ug sipa, unsa akong mahimo?",
+		"answer": "Kini usa ka klase sa pisikal nga kapintas. Ang imong barangay o kapulisan mahimong makatabang ug makahatag ug tabang alang sa imong proteksyon."
+	},
+	{
+		"question": "Giingnan ko sa akong bana nga dili nako makit-an akong mga anak. Sakop ba kini sa VAWC?",
+		"answer": "Oo, ang paglimitar sa imong kagawasan nga makita ang imong mga anak mahimong matang sa sikolohikal nga abuso ug kapintas."
+	},
+	{
+		"question": "Kung akong bana walay trabaho ug akong gastos tanan, apil ba kini sa VAWC?",
+		"answer": "Oo, ang pag-abuso sa imong pinansyal nga kapasidad ug ang pagduso sa tanan nga obligasyon sa usa ka partner mahimong konsiderado isip ekonomikanhong abuso."
+	},
+	{
+		"question": "Kung ang amahan sa akong anak wala'y pakialam sa iyang mga responsibilidad sa mga bata, unsa akong mahimo?",
+		"answer": "Mahimo kang mopetisyon sa korte alang sa suporta sa pinansyal ug ipahibalo ang mga awtoridad aron matabangan ka sa imong mga katungod."
+	},
+	{
+		"question": "Giingnan ko sa akong partner nga dili ko pwede mag-eskwela. Apil ba kini sa VAWC?",
+		"answer": "Oo, ang pagpugong sa imong edukasyon o karera usa ka matang sa ekonomikanhong ug emosyonal nga kapintas nga sakop sa VAWC."
+	},
+	{
+		"question": "Unsa akong buhaton kung akong anak adunay trauma tungod sa pagpanagana sa iyang amahan?",
+		"answer": "Mahimo kang mangayo og suporta gikan sa mga therapist, DSWD, o sa mga ahensya nga motabang sa mga biktima sa VAWC alang sa emotional support ug proteksyon sa imong anak."
+	},
+	{
+		"question": "Kung akong partner walay suporta sa mga bayarinan sa balay ug panginahanglan sa mga anak, sakop ba kini sa VAWC?",
+		"answer": "Oo, ang pag-abandona sa responsibilidad alang sa panginahanglan sa pamilya sakop sa ekonomikanhong abuso sa ilawom sa VAWC."
+	},
+	{
+		"question": "Kung ang akong bana kanunay magyawyaw og dautan kanako atubangan sa mga anak, apil ba kini sa VAWC?",
+		"answer": "Oo, kini usa ka matang sa emosyonal nga abuso nga mahimong makadaot sa imong emosyon ug sa kahimsog sa inyong pamilya."
+	},
+	{
+		"question": "Unsa akong mahimo kung ang akong bana makuyaw nga mabun-og nako?",
+		"answer": "Mahimo kang mo-report sa kapulisan o barangay ug mopetisyon og proteksyon sa korte aron malikayan ang pisikal nga kapintas."
+	},
+	{
+		"question": "Giingnan ko sa akong bana nga dili ko mosimba. Apil ba kini sa VAWC?",
+		"answer": "Oo, ang pagpugong sa imong kagawasan nga makapili sa imong relihiyon usa ka matang sa emosyonal ug sikolohikal nga abuso."
+	},
+	{
+		"question": "Kung akong bana dili mohatag og budget sa balay bisan naa siyay kwarta, sakop ba kini sa VAWC?",
+		"answer": "Oo, ang pagdili sa pinansyal nga suporta alang sa mga panginahanglan sa pamilya usa ka matang sa ekonomikanhong abuso."
+	},
+	{
+		"question": "Kung akong anak biktima sa verbal abuse sa iyang amahan, unsa akong mahimo?",
+		"answer": "Mahimo kang mokonsulta sa barangay o kapulisan ug mopetisyon og proteksyon aron mapanalipdan ang imong anak batok sa sikolohikal nga abuso."
+	},
+	{
+		"question": "Unsa akong mahimo kung ang akong bana dili mopatambong sa mga aktibidad sa mga bata?",
+		"answer": "Dili kini diretso nga sakop sa VAWC, apan ang dili paghatag sa emosyonal nga suporta mahimong makaapekto sa imong mga anak. Mahimo kang mag-istorya og masinsinay o mokonsulta og tambag sa mga ahensya nga makatabang."
+	},
+	{
+		"question": "Kung akong bana magpadungog-dungog og dili maayo kanako sa atubangan sa uban, sakop ba kini sa VAWC?",
+		"answer": "Oo, kini usa ka matang sa sikolohikal nga abuso ug makadaot sa imong dignidad ug kahimsog sa emosyon."
+	},
+	{
+		"question": "Unsa akong buhaton kung adunay makita nga mga sign sa kapintas sa pamilya sa akong silingan?",
+		"answer": "Mahimo kang motabang sa pag-report sa barangay o kapulisan aron matabangan ang biktima ug maprotektahan siya sa posibleng kapintas."
+	},
+	{
+		"question": "Kung akong bana kanunay nga maghubog ug mosukmat kanako, sakop ba kini sa VAWC?",
+		"answer": "Oo, ang padayon nga pagpanghubog ug pagsukmat nga makadaot sa imong dignidad sakop sa VAWC."
+	},
+	{
+		"question": "Kung adunay kapintas sa panimalay, unsa ang mahitabo sa mga bata?",
+		"answer": "Ang mga bata mahimong apil sa protective order sa korte aron mapanalipdan sila gikan sa emosyonal ug pisikal nga epekto sa kapintas."
+	},
+	{
+		"question": "Unsa akong mahimo kung ang akong partner dili mohatag og access sa mga dokumento sa balay?",
+		"answer": "Kini usa ka matang sa ekonomikanhong abuso. Mahimo kang mokonsulta sa mga abogado o mga ahensya aron matabangan sa imong mga katungod."
+	},
+	{
+		"question": "Kung ang akong bana walay respeto kanako sa atubangan sa akong mga anak, sakop ba kini sa VAWC?",
+		"answer": "Oo, ang dili paghatag og respeto ug ang mga verbal nga pag-insulto mahimong emosyonal nga abuso nga makadaot sa imong dignidad."
+	},
+	{
+		"question": "Unsa akong buhaton kung ang akong bana magpasipadayon og relasyon nga makadaot kanako?",
+		"answer": "Mahimo kang mokonsulta sa barangay ug kapulisan aron makuha ang imong mga katungod ug matabangan ka sa imong kahimtang."
+	},
+	{
+		"question": "Unsa ang RA 9262?",
+		"answer": "Ang RA 9262 o 'Anti-Violence Against Women and Their Children Act of 2004' usa ka balaod nga nagpanalipod batok sa kapintas o abuso nga nabuhat sa kababayen-an ug ilang mga anak sa sulod sa pamilya o relasyon."
+	},
+	{
+		"question": "Unsa ang mga matang sa kapintas nga sakop sa RA 9262?",
+		"answer": "Ang RA 9262 naglangkob sa pisikal, sekswal, emosyonal, ug ekonomikanhong kapintas o pag-abuso."
+	},
+	{
+		"question": "Kinsay pwede makafile og kaso sa ilawom sa RA 9262?",
+		"answer": "Ang kababayen-an ug mga anak nga biktima sa kapintas sa ilahang kapikas o ginikanan ang adunay katungod nga makafile og kaso ilawom sa RA 9262."
+	},
+	{
+		"question": "Unsa ang mga penalidad alang sa mga makasala ilawom sa RA 9262?",
+		"answer": "Ang mga makasala ilawom sa RA 9262 mahimong mapriso, magbayad og multa, ug obligado nga mohatag og suporta sa mga biktima para sa ilang recovery. Ang sentensya magdepende sa grabeng epekto sa ilang gibuhat."
+	},
+	{
+		"question": "Unsa ang mga protective order ilawom sa RA 9262?",
+		"answer": "Ang RA 9262 naghatag og tatlong matang sa protective order: Barangay Protection Order (BPO), Temporary Protection Order (TPO), ug Permanent Protection Order (PPO), nga naghatag proteksyon sa mga biktima batok sa kapintas."
+	},
+	{
+		"question": "Unsa ang Barangay Protection Order (BPO)?",
+		"answer": "Ang BPO usa ka protective order nga gi-issue sa barangay aron mapugngan ang pag-abuso o kapintas. Mahimo kini i-file sa biktima o bisan kinsay paryente nga nagrepresenta kanimo."
+	},
+	{
+		"question": "Unsa ang kalainan sa TPO ug PPO?",
+		"answer": "Ang Temporary Protection Order (TPO) gihatag alang sa temporaryo nga proteksyon samtang gipaabot ang hearing. Ang Permanent Protection Order (PPO) usa ka dugayng proteksyon nga gihatag sa korte batok sa agresor."
+	},
+	{
+		"question": "Unsa ang mahimo sa usa ka PPO?",
+		"answer": "Ang PPO nagdili sa agresor nga magpakita o makig-uban sa biktima, magdili sa agresor nga mobalik sa balay sa biktima, ug mahimong maghatag og mga utos nga magtabang sa pagsiguro sa kaluwasan ug kahapsay sa biktima ug mga anak."
+	},
+	{
+		"question": "Pwede ba nga ang kapulisan makialam sa kaso nga may kalabotan sa VAWC?",
+		"answer": "Oo, ang kapulisan adunay katungod ug obligasyon nga motabang sa mga biktima ug modakop sa mga nagbuhat sa kapintas o abuso."
+	},
+	{
+		"question": "Unsa ang proseso sa pag-file og kaso ilawom sa RA 9262?",
+		"answer": "Pwede nga magsugod sa barangay o sa kapulisan ang pag-file og kaso. Ang biktima pwede mohangyo og protection order ug magsumite sa reklamo sa korte alang sa mas dako nga aksyon."
+	},
+	{
+		"question": "Aduna bay bayad ang pagkuha og Barangay Protection Order?",
+		"answer": "Walay bayad ang pagkuha og Barangay Protection Order (BPO) alang sa mga biktima sa VAWC. Kini libre nga serbisyo sa barangay alang sa mga biktima sa kapintas."
+	},
+	{
+		"question": "Aduna bay paglimite sa panahon ang Temporary Protection Order (TPO)?",
+		"answer": "Oo, ang Temporary Protection Order (TPO) adunay paglimite sa panahon, kasagaran nga magpabilin og 30 ka adlaw, ug mahimo kini i-renew samtang naghulat sa permanente nga desisyon sa korte."
+	},
+	{
+		"question": "Mahimo bang ipa-expire ang usa ka PPO?",
+		"answer": "Ang Permanent Protection Order (PPO) dili mawagtang, gawas kung ang korte mismo nag-decide nga wala na kini’y panginahanglan tungod sa kausaban sa sitwasyon o relasyon sa biktima ug agresor."
+	},
+	{
+		"question": "Unsa ang mahimo kung ang aggressor dili mosunod sa PPO?",
+		"answer": "Kung ang aggressor dili mosunod sa PPO, pwede siya mapriso ug aduna siyay hustong silot sa pag-violate sa order nga gi-issue sa korte."
+	},
+	{
+		"question": "Unsa ang mga katungod sa biktima ilawom sa RA 9262?",
+		"answer": "Ang biktima adunay katungod nga makakuha og proteksyon, suporta, ug hustisya. Aduna siya’y katungod nga masiguro ang iyang kaluwasan ug ang kaluwasan sa iyang mga anak, ug katungod nga mag-file og kaso batok sa kapintas o abuso."
+	},
+	{
+		"question": "Kinsa ang mahimong tabang nga mokonsulta sa kaso sa VAWC?",
+		"answer": "Ang mga abogado, social workers, ug barangay VAW Desk mga personnel pwede makatabang sa pag-assist sa mga biktima ug sa paghatag og legal nga tambag o suporta."
+	},
+	{
+		"question": "Aduna bay probisyon para sa child custody ilawom sa RA 9262?",
+		"answer": "Oo, ang RA 9262 naghatag og probisyon para sa child custody, ug ang korte mag-issue og mga order nga magpanalipod sa mga anak aron dili sila mapasakitan o abusohan."
+	},
+	{
+		"question": "Unsa ang probation sa RA 9262 kung ang biktima dili mopasaylo?",
+		"answer": "Ang RA 9262 dili nagkinahanglan nga ang biktima mopasaylo aron mapahamtang ang penalidad. Ang mga legal nga aksyon motuman bisan kung dili ganahan ang biktima mopasaylo sa agresor."
+	},
+	{
+		"question": "Unsa ang mga posible nga epekto sa RA 9262 sa trabaho sa usa ka agresor?",
+		"answer": "Ang korte mahimong maghatag og desisyon nga mahimong makaapekto sa trabaho sa agresor kung kini mag-violate sa protective order o magpadayon ang kapintas."
+	},
+	{
+		"question": "Kinsa ang maka-report og kaso sa VAWC gawas sa biktima mismo?",
+		"answer": "Ang bisan kinsa nga saksi o kaila sa biktima nga aware sa kapintas o abuso, sama sa mga paryente o silingan, pwede nga mopahibalo sa kapulisan o barangay alang sa tabang."
+	},
+	{
+		"question": "Unsa ang mga kinahanglanon para makakuha og protective order?",
+		"answer": "Ang biktima kinahanglan mag-submit og written statement sa barangay o sa korte nga naglambo sa panghitabo sa kapintas o abuso nga natagamtaman, uban sa mga ebidensya kung aduna."
+	},
+	{
+		"question": "Unsa ang proseso aron makasuhan ang aggressor nga walay BPO?",
+		"answer": "Pwede nga magdirekta sa korte aron makapahamtang og kasong kriminal batok sa aggressor ug mag-file og Temporary Protection Order bisan walay BPO."
+	},
+	{
+		"question": "Aduna bay bayad ang pagfile og kaso sa korte alang sa PPO?",
+		"answer": "Kasagaran nga libre ang pag-file sa kaso alang sa PPO kung kini alang sa proteksyon batok sa kapintas, ug ang korte naghatag og legal nga serbisyo alang sa mga biktima nga walay bayad."
+	},
+	{
+		"question": "Unsa ang himoon sa korte kung ang biktima adunay lain nga pamilya?",
+		"answer": "Ang korte mobase sa sitwasyon ug mohatag og mga protective order base sa kaluwasan ug security sa biktima bisan pa kung aduna siya’y lain nga pamilya."
+	},
+	{
+		"question": "Unsa ang kapinus sa physical abuse ilawom sa RA 9262?",
+		"answer": "Ang mga makasala sa physical abuse mapriso ug magmulta base sa grabeng epekto sa gibuhat nga kapintas. Ang sentensya mahimong lapas sa duha ka tuig hangtod sa permanenteng priso."
+	},
+	{
+		"question": "Unsa ang mga legal nga epekto sa sexual abuse sa VAWC?",
+		"answer": "Ang sexual abuse, ilabina kung kini buhaton sa kapikas sa biktima, adunay grabe nga penalidad ilawom sa RA 9262 ug pwede mapriso hangtod sa dugay nga panahon depende sa sitwasyon."
+	},
+	{
+		"question": "Unsa ang RA 8353?",
+		"answer": "Ang RA 8353, o 'Anti-Rape Law of 1997,' usa ka balaod nga naghatag og lig-on nga proteksyon batok sa pagpasipala sa kababayen-an pinaagi sa pag-ila ug pag-definir sa rape ug mga kaangayan nga penalidad."
+	},
+	{
+		"question": "Unsa ang mga tipo sa rape ilawom sa RA 8353?",
+		"answer": "Ang RA 8353 naglangkob sa 'forcible rape,' 'statutory rape,' ug 'rape by sexual assault.' Ang mga tipo sa rape nagdepende sa pamaagi ug kondisyon sa pag-perpetrate sa krimen."
+	},
+	{
+		"question": "Unsa ang definition sa forcible rape?",
+		"answer": "Ang forcible rape gidefinir nga ang pagkuha og sekswal nga kontak sa usa ka tawo pinaagi sa pwersa, pagpanuko, o pagbuhat sa usa ka binuhatan nga makapahadlok sa biktima."
+	},
+	{
+		"question": "Unsa ang statutory rape?",
+		"answer": "Ang statutory rape nahitabo kung ang usa ka tawo nagpakigrelasyon sa sekswal sa usa ka biktima nga wala pa mag-abot sa edad nga 12 anyos, bisan pa kung wala kini pinugos."
+	},
+	{
+		"question": "Unsa ang mga penalidad alang sa rape ilawom sa RA 8353?",
+		"answer": "Ang penalidad alang sa rape mahimong pagkabilanggo nga labing menos 20 ka tuig hangtod sa kinabuhi, ug ang mga nagbuhat sa rape mahimong magbayad og multa ug obligadong magrehistro sa National Sex Offender Registry."
+	},
+	{
+		"question": "Unsa ang epekto sa relasyon sa biktima ug agresor sa kaso sa rape?",
+		"answer": "Ang relasyon sa biktima ug agresor dili makapadula sa pagbayad sa kaso. Bisan pa man og may relasyon, kung adunay pwersa o pagpanuko, kini mahimong rape."
+	},
+	{
+		"question": "Unsa ang katungod sa mga biktima sa rape ilawom sa RA 8353?",
+		"answer": "Ang mga biktima adunay katungod nga mangayo og tabang, mag-file og kaso sa korte, ug magdawat og suporta gikan sa mga ahensya nga naghatag og legal ug psychological nga serbisyo."
+	},
+	{
+		"question": "Unsa ang mga legal nga proseso sa pag-file og kaso sa rape?",
+		"answer": "Ang biktima kinahanglan mag-report sa kapulisan, ug ang kapulisan maghimo og imbestigasyon. Ang biktima kinahanglan usab mag-file og reklamo sa korte aron sa pagkuha og hustisya."
+	},
+	{
+		"question": "Aduna bay mga restriksyon sa pag-file og kaso sa rape?",
+		"answer": "Ang biktima sa rape adunay upat ka tuig gikan sa paghitabo sa insidente aron mag-file og kaso. Apan, ang mga biktima nga ubos sa edad 18, o sa mga may kapansanan, walay restriksyon sa pag-file."
+	},
+	{
+		"question": "Unsa ang mga kinahanglanon aron masiguro ang kaso sa rape?",
+		"answer": "Kinahanglan nga ang biktima makahatag og ebidensya nga nagpakita sa insidente sa rape, sama sa medical examination, eyewitness accounts, ug bisan unsang dokumento nga magpamatood sa panghitabo."
+	},
+	{
+		"question": "Unsa ang role sa mga medical practitioners sa kaso sa rape?",
+		"answer": "Ang mga medical practitioners gikinahanglan nga maghimo og medical examination sa biktima, ug ilang ipatuman ang confidentiality ug obligasyon nga motabang sa mga biktima."
+	},
+	{
+		"question": "Unsa ang kahulugan sa rape by sexual assault?",
+		"answer": "Ang rape by sexual assault nahitabo kung ang biktima gipugos sa pagbuhat og sekswal nga aksyon nga dili niya gusto bisan pa wala kini naglakip og penetrasyon."
+	},
+	{
+		"question": "Unsa ang kahimtang kung ang biktima magwithdraw sa kaso?",
+		"answer": "Bisan pa kung ang biktima magwithdraw sa kaso, ang gobyerno adunay katungod nga magpadayon sa kaso kon kini usa ka public crime."
+	},
+	{
+		"question": "Unsa ang mga legal consequences sa mga biktima nga nag-retract sa ilang testimonya?",
+		"answer": "Ang pag-retract sa testimonya dili makadawat og penalidad, apan mahimong makaapekto sa kaso kung ang ebidensya dili makatukod sa kaso."
+	},
+	{
+		"question": "Unsa ang mga serbisyo nga gihatag sa mga ahensya alang sa mga biktima sa rape?",
+		"answer": "Ang mga ahensya naghatag og legal nga tambag, medical assistance, psychological counseling, ug temporaryo nga pabahay alang sa mga biktima sa rape."
+	},
+	{
+		"question": "Unsa ang mga obligations sa gobyerno sa mga biktima sa rape?",
+		"answer": "Ang gobyerno obligadong maghatag og proteksyon, suporta, ug access sa hustisya alang sa mga biktima sa rape."
+	},
+	{
+		"question": "Unsa ang papel sa mga social workers sa mga kaso sa rape?",
+		"answer": "Ang mga social workers nagtabang sa mga biktima sa pagsabot sa ilang mga katungod, naghatag og suporta, ug nagrepresentar sa biktima sa mga legal nga proseso."
+	},
+	{
+		"question": "Unsa ang epekto sa rape sa mental health sa biktima?",
+		"answer": "Ang rape mahimong magresulta sa grabe nga trauma, anxiety, depression, ug uban pang mga mental health issues nga nagkinahanglan og tukmang suporta ug therapy."
+	},
+	{
+		"question": "Aduna bay mga counseling services alang sa mga biktima sa rape?",
+		"answer": "Oo, daghang ahensya ang naghatag og counseling services alang sa mga biktima sa rape aron matabangan sila sa pag-recover ug pag-atubang sa mga epekto sa trauma."
+	},
+	{
+		"question": "Unsa ang papel sa mga community organizations sa pagtabang sa mga biktima sa rape?",
+		"answer": "Ang mga community organizations naghatag og suporta sa mga biktima pinaagi sa impormasyon, legal assistance, ug mga programa sa rehabilitasyon."
+	},
+	{
+		"question": "Unsa ang gipasabot sa 'consent' ilawom sa RA 8353?",
+		"answer": "Ang 'consent' nagpasabot sa libre nga paghatag sa usa ka tawo sa ilang pagdawat sa sekswal nga aktibidad. Kung ang biktima walay kapasidad sa paghatag og consent, sama sa kung sila adunay kapansanan o ubos sa impluwensya sa droga o alcohol, kini mahimong konsiderasyon sa rape."
+	},
+	{
+		"question": "Unsa ang papel sa mga biktima sa paghatag og testimonya sa korte?",
+		"answer": "Ang mga biktima gikinahanglan nga maghatag og testimonya aron masiguro ang proseso sa hustisya. Importante ang ilang testimonya aron ipakita ang panghitabo sa rape."
+	},
+	{
+		"question": "Mahimo bang ma-revise ang testimonya sa biktima sa proseso?",
+		"answer": "Oo, ang biktima mahimo mag-revise sa ilang testimonya, pero ang mga kausaban kinahanglan i-explain ug ipahayag sa korte kung ngano nga adunay pagbag-o."
+	},
+	{
+		"question": "Unsa ang kinahanglanon alang sa pag-imbestigar sa kaso sa rape?",
+		"answer": "Kinahanglan nga ang kapulisan mangolekta og ebidensya, mag-interview sa mga testigo, ug maghimo og medical examination sa biktima aron ma-establisar ang panghitabo."
+	},
+	{
+		"question": "Unsa ang proseso sa pag-refer sa mga biktima sa medical examination?",
+		"answer": "Ang mga biktima gikinahanglan nga dad-on sa usa ka medical facility o hospital diin ang mga medical practitioners andam sa pag-assess ug pag-record sa ebidensya."
+	},
+	{
+		"question": "Unsa ang mga responsibilities sa mga police officers sa pag-handle sa rape cases?",
+		"answer": "Ang mga police officers gikinahanglan nga maghatag og suporta sa biktima, siguruhon ang confidentiality, ug magconduct sa imbestigasyon nga patas ug dili biased."
+	},
+	{
+		"question": "Unsa ang papel sa mga judges sa mga kaso sa rape?",
+		"answer": "Ang mga judges adunay responsibilidad sa pag-review sa ebidensya, pag-assess sa testimonya, ug paghimo og desisyon base sa mga legal nga basehan sa kaso."
+	},
+	{
+		"question": "Unsa ang epekto sa kultura sa pag-file og kaso sa rape?",
+		"answer": "Ang kultura mahimong makaapekto sa desisyon sa biktima sa pag-file og kaso tungod sa stigma, kahadlok sa kahimtang, ug kakulangan sa suporta sa komunidad."
+	},
+	{
+		"question": "Unsa ang mga legal nga pamaagi sa pag-usab sa mga kaso sa rape?",
+		"answer": "Ang mga kaso sa rape mahimong ma-review ug ma-reopen base sa bag-ong ebidensya o testimonya nga makahatag ug suporta sa biktima."
+	},
+	{
+		"question": "Mahimo bang mapugngan ang mga biktima sa pagreport sa rape?",
+		"answer": "Ang mga biktima sa rape kasagaran mapugngan sa pagreport tungod sa kahadlok sa represalias, stigma, ug kakulang sa pagsabot sa legal nga proseso."
+	},
+	{
+		"question": "Unsa ang mga requirements sa pagkuha og temporary protection order sa biktima?",
+		"answer": "Ang biktima kinahanglan mag-file sa korte ug ipakita ang ebidensya nga nagpalig-on sa ilang kinahanglan sa proteksyon batok sa agresor."
+	},
+	{
+		"question": "Unsa ang mga serbisyo nga gihatag sa mga government agencies alang sa mga biktima sa rape?",
+		"answer": "Ang mga government agencies naghatag og legal assistance, medical care, psychological counseling, ug temporary shelter para sa mga biktima sa rape."
+	},
+	{
+		"question": "Unsa ang mga epekto sa sexual violence sa mental health sa mga biktima?",
+		"answer": "Ang sexual violence mahimong magresulta sa grabe nga PTSD, anxiety, depression, ug ubang mental health disorders nga nagkinahanglan og tukmang treatment."
+	},
+	{
+		"question": "Unsa ang mga kondisyon nga nag-considerar sa 'exemptions' sa pag-file og kaso sa rape?",
+		"answer": "Ang mga kondisyon sama sa pagkamanghuran, pagka-ubos sa edad, ug pagka-kapansanan sa biktima mahimo nga maghatag og exemption sa mga legal nga pamaagi sa pag-file."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa pagsusi sa mga testimonya sa rape victims?",
+		"answer": "Ang mga testimonya sa mga biktima susihon pinaagi sa pag-evaluate sa mga inconsistencies, credibility, ug ang pagkamatinuoron sa ilang mga giingon."
+	},
+	{
+		"question": "Unsa ang papel sa mga NGOs sa pagtabang sa mga biktima sa rape?",
+		"answer": "Ang mga NGOs naghatag og advocacy, legal assistance, counseling, ug mga programa nga nagtabang sa mga biktima sa pag-recover ug pagpadayon sa ilang mga kinabuhi."
+	},
+	{
+		"question": "Unsa ang kinahanglan buhaton sa usa ka biktima human sa insidente sa rape?",
+		"answer": "Ang biktima kinahanglan mag-report sa kapulisan, magpatingin sa doktor alang sa medical examination, ug mangayo og suporta gikan sa mga ahensya nga naghatag og tabang."
+	},
+	{
+		"question": "Unsa ang kahulugan sa 'rape shield law' sa konteksto sa RA 8353?",
+		"answer": "Ang 'rape shield law' nagdili sa paggamit sa personal nga kasaysayan sa biktima sa rape isip ebidensya sa korte, aron mapugngan ang victim-blaming ug stigma."
+	},
+	{
+		"question": "Unsa ang epekto sa mga biktima sa rape sa ilang relasyon sa pamilya?",
+		"answer": "Ang mga biktima sa rape kasagaran mag-antos og emotional distress nga makaapekto sa ilang relasyon sa pamilya ug makapadako sa kahirapan sa pag-communicate."
+	},
+	{
+		"question": "Unsa ang mga dapat buhaton sa biktima sa pagkahibalo nga siya gi-rape?",
+		"answer": "Kinahanglan nga ang biktima mag-report dayon sa kapulisan, magpatingin sa doktor alang sa medical examination, ug mangayo og legal nga tambag gikan sa mga ahensya nga naghatag og suporta."
+	},
+	{
+		"question": "Unsa ang epekto sa social media sa mga kaso sa rape?",
+		"answer": "Ang social media mahimong makaapekto sa mga kaso sa rape pinaagi sa pagpakita sa mga testimonya, pag-edukasyon sa mga tawo, apan mahimo usab kini magdala sa stigma ug victim-blaming."
+	},
+	{
+		"question": "Unsa ang legal nga pamaagi sa pag-terminate sa mga kaso sa rape?",
+		"answer": "Ang mga kaso sa rape mahimong i-terminate sa korte kung ang biktima nag-withdraw sa kaso o kung ang ebidensya dili igo aron suportahan ang akusasyon."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa pag-imbestigar sa rape sa mga rural nga lugar?",
+		"answer": "Sa mga rural nga lugar, ang pag-imbestigar sa rape nagkinahanglan og mas dugay nga panahon tungod sa kakulang sa mga resources, ug ang mga police officers kinahanglan magtukod og relasyon sa komunidad."
+	},
+	{
+		"question": "Unsa ang mga legal nga obligasyon sa mga medical practitioners kung adunay rape case?",
+		"answer": "Ang mga medical practitioners obligado nga mag-report sa mga kaso sa rape sa kapulisan ug mag-provide og medical care sa biktima samtang nagasiguro sa confidentiality."
+	},
+	{
+		"question": "Unsa ang mga batasan nga angay sundon sa mga law enforcement agencies sa pag-imbestigar sa rape?",
+		"answer": "Ang mga law enforcement agencies kinahanglan mag-follow sa established protocols, i-ensure ang pag-respeto sa biktima, ug dili magpadala sa bias sa ilang imbestigasyon."
+	},
+	{
+		"question": "Unsa ang mga penalties alang sa mga tao nga mag-fail sa pag-report sa rape?",
+		"answer": "Ang mga tawo nga adunay legal nga obligasyon sa pag-report sa rape ug dili kini buhaton mahimong masakpan ug mapunish base sa mga probisyon sa balaod."
+	},
+	{
+		"question": "Unsa ang mga epekto sa stigma sa mga biktima sa rape?",
+		"answer": "Ang stigma mahimong magresulta sa psychological trauma, isolation, ug kakulangan sa suporta gikan sa pamilya ug komunidad."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa pag-educate sa publiko bahin sa RA 8353?",
+		"answer": "Ang mga ahensya ug NGOs nag-organisar og mga seminar, workshop, ug kampanya sa social media aron ipasabot ang mga katungod sa biktima ug ang mga legal nga pamaagi sa RA 8353."
+	},
+	{
+		"question": "Unsa ang mga epekto sa rape sa physical health sa biktima?",
+		"answer": "Ang rape mahimong magresulta sa physical injuries, sexually transmitted infections, ug psychological conditions nga nagkinahanglan og medical attention."
+	},
+	{
+		"question": "Unsa ang mga legal remedies alang sa mga biktima sa rape?",
+		"answer": "Ang mga biktima mahimong mangayo og monetary compensation, protection orders, ug suporta gikan sa gobyerno ug NGOs."
+	},
+	{
+		"question": "Unsa ang papel sa mga family members sa pagtabang sa biktima sa rape?",
+		"answer": "Ang mga family members kinahanglan maghatag og emotional support, tabang sa legal nga proseso, ug i-encourage ang biktima nga mag-report sa insidente."
+	},
+	{
+		"question": "Unsa ang mga kahimtang nga naghatag og 'aggravating circumstances' sa rape?",
+		"answer": "Ang aggravating circumstances naglakip sa pagpasipala sa mga biktima nga ubos sa edad, paggamit sa armas, ug pagpanuko sa biktima."
+	},
+	{
+		"question": "Unsa ang mga kinahanglanon alang sa pag-access sa psychological counseling alang sa mga biktima?",
+		"answer": "Ang mga biktima kinahanglan magparehistro sa mga ahensya nga naghatag og mental health services ug ipakita ang ilang sitwasyon aron makadawat og assistance."
+	},
+	{
+		"question": "Unsa ang epekto sa rape sa mga biktima sa ilang edukasyon?",
+		"answer": "Ang mga biktima sa rape kasagaran mag-antos og academic difficulties, pagkakabala sa eskwelahan, ug kakulangan sa motivation sa pagpadayon sa ilang edukasyon."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa pag-resolve sa mga kaso sa rape nga naglakip sa medyas nga paagi?",
+		"answer": "Ang mga kaso sa rape mahimo nga ma-resolve pinaagi sa mediation, kung ang duha ka partido magkasabot sa usa ka settlement, apan kini kinahanglan nga igahimo nga voluntary."
+	},
+	{
+		"question": "Unsa ang mga legal nga pagsupak sa mga kaso sa rape?",
+		"answer": "Ang mga legal nga pagsupak naglakip sa pag-apelar sa desisyon sa korte, pag-request sa reconsideration, ug pag-file og bagong kaso kung adunay bag-ong ebidensya."
+	},
+	{
+		"question": "Unsa ang papel sa mga civil society organizations sa pagpalambo sa awareness sa rape?",
+		"answer": "Ang mga civil society organizations nagtrabaho aron sa pagpasabot sa publiko sa mga isyu sa rape, pag-advocate sa mga katungod sa biktima, ug pagtabang sa mga kaso sa rape."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa pagpugong sa rape sa mga komunidad?",
+		"answer": "Ang pagpugong sa rape naglakip sa pag-educate sa mga tawo sa mga isyu sa consent, pag-reinforce sa mga legal nga balaod, ug pag-promote sa gender equality sa komunidad."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima kung siya gi-rape sa usa ka parte sa iyang balay?",
+		"answer": "Kinahanglan nga ang biktima mag-report dayon sa kapulisan ug mangayo og medical assistance. Ang pag-preserve sa ebidensya mao usab ang importante."
+	},
+	{
+		"question": "Unsa ang himoon sa usa ka biktima kung siya gi-rape sa usa ka crowded nga party?",
+		"answer": "Ang biktima kinahanglan nga mangita og tabang sa mga tawo sa palibot ug mag-report sa insidente sa kapulisan samtang nag-preserve sa ebidensya."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa usa ka amiga nga nakadungog sa rape sa iyang kauban?",
+		"answer": "Ang amiga kinahanglan mag-report sa kapulisan ug maghatag og suporta sa biktima, sama sa pag-uban sa biktima sa hospital o sa pag-file sa kaso."
+	},
+	{
+		"question": "Unsa ang mga lakang nga angay sundon sa usa ka biktima human sa insidente sa rape?",
+		"answer": "Ang biktima kinahanglan nga mag-report sa kapulisan, magpatingin sa doktor, ug mangayo og legal nga tambag gikan sa mga NGO."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima kung siya nahadlok sa represalias gikan sa agresor?",
+		"answer": "Ang biktima mahimo mag-request og temporary protection order gikan sa korte aron maprotektahan ang iyang kaugalingon."
+	},
+	{
+		"question": "Unsa ang himoon sa mga kauban sa biktima kung ang biktima nagpasabot sa kanila nga siya gi-rape?",
+		"answer": "Ang mga kauban kinahanglan nga maghatag og emotional support, mag-refer sa biktima sa mga resources, ug mag-encourage kanila sa pag-report sa insidente."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa usa ka biktima kung siya nahadlok nga dili siya pagatuohan sa iyang gi-report?",
+		"answer": "Ang biktima kinahanglan nga mangita og legal nga tabang gikan sa mga abogado o NGOs nga nag-specialize sa mga kaso sa rape."
+	},
+	{
+		"question": "Unsa ang buhaton sa mga pulis kung adunay biktima nga nag-report sa rape?",
+		"answer": "Ang mga pulis kinahanglan mag-conduct og preliminary investigation, mangolekta og ebidensya, ug ipasabot ang biktima sa proseso sa legal nga pagdumala."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa usa ka biktima nga gi-revoked ang iyang pag-file sa kaso?",
+		"answer": "Ang biktima mahimo mag-request sa korte aron ipahayag ang rason sa pag-revoke ug ipahayag nga ang iyang desisyon boluntaryo."
+	},
+	{
+		"question": "Unsa ang himoon sa usa ka biktima kung siya gi-rape sa iyang ex-boyfriend?",
+		"answer": "Kinahanglan nga mag-report siya sa kapulisan ug ipakita ang ebidensya sa insidente, bisan pa man sa relasyon nga ilang giangkon."
+	},
+	{
+		"question": "Unsa ang buhaton sa mga biktima kung nagduda sila nga sila nag-atubang og stalker?",
+		"answer": "Kinahanglan nga mag-report sila sa kapulisan ug ipahayag ang ilang sitwasyon aron magtukod og kaso kung kini magpadayon."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa usa ka biktima nga gi-refer sa usa ka NGO?",
+		"answer": "Ang biktima kinahanglan nga makig-istorya sa mga counselor sa NGO aron makadawat og suporta ug mag-guide sa legal nga proseso."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima nga walay access sa medical facilities?",
+		"answer": "Kinahanglan nga siya mag-report sa kapulisan ug ipakita ang ebidensya sa insidente aron ma-record kini sa kaso."
+	},
+	{
+		"question": "Unsa ang himoon sa usa ka biktima kung siya gi-rape sa sulod sa public transport?",
+		"answer": "Ang biktima kinahanglan mag-report sa kapulisan sa lugar, mangayo og medical assistance, ug ipasabot ang mga saksi sa insidente."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa usa ka biktima nga gi-rape sa ilang kaugalingong pamilya?",
+		"answer": "Ang biktima kinahanglan mag-report sa mga awtoridad, sama sa kapulisan, ug mangayo og suporta gikan sa mga NGOs o social workers."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa usa ka biktima nga gi-ingon nga 'wala lang na', ug gusto niyang iignore ang insidente?",
+		"answer": "Dapat siyang ipahibalo nga ang insidente seryoso ug kinahanglan nga mag-report sa kapulisan para sa iyang kaluwasan ug sa ubang tawo."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka estudyante nga gi-rape sa campus?",
+		"answer": "Kinahanglan siyang mag-report sa campus security ug sa mga awtoridad, ug mangayo og medical assistance ug legal support."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa usa ka biktima nga naay mga ebidensya sama sa text messages gikan sa agresor?",
+		"answer": "Kinahanglan nga i-preserve ang mga ebidensya ug ipakita kini sa kapulisan aron magamit sa imbestigasyon."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa mga kauban sa trabaho kung ang usa sa ilang kauban nag-report nga siya gi-rape?",
+		"answer": "Kinahanglan silang maghatag og suporta, mag-report sa insidente sa HR, ug mag-encourage sa biktima sa pag-report sa kapulisan."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima kung ang iyang pamilya dili mosuporta sa pag-file sa kaso?",
+		"answer": "Dapat siyang mangita og suporta gikan sa mga NGO o legal counsel nga makahatag og tabang sa proseso sa pag-file."
+	},
+	{
+		"question": "Unsa ang himoon sa usa ka biktima kung ang agresor usa ka public figure?",
+		"answer": "Kinahanglan nga siya mag-report sa kapulisan ug mag-seek og legal counsel nga kasaligan aron maprotektahan ang iyang interes."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa biktima nga nagduda nga ang iyang kaso mahimong ma-dismiss?",
+		"answer": "Dapat siyang makig-istorya sa iyang abogado aron masabtan ang proseso ug magpundar og dugang nga ebidensya."
+	},
+	{
+		"question": "Unsa ang buhaton sa mga biktima nga nagdesisyon nga dili na magpadayon sa kaso?",
+		"answer": "Kinahanglan nilang ipahibalo sa korte ang ilang desisyon sa pag-withdraw sa kaso ug ang rason niini."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa usa ka biktima nga nanginahanglan og mental health support human sa insidente?",
+		"answer": "Ang biktima mahimo nga mag-seek og counseling gikan sa mga professionals nga nag-specialize sa trauma."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa biktima nga gi-rape sa usa ka relasyon?",
+		"answer": "Kinahanglan nga siya mag-report sa insidente ug mangayo og legal nga tabang bisan pa sa relasyon nga ilang giangkon."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima kung siya nahadlok nga ma-stigmatized sa komunidad?",
+		"answer": "Ang biktima kinahanglan mag-seek og suporta gikan sa mga NGOs ug professionals nga makahatag og tabang sa pag-process sa stigma."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima nga nakakita og video footage sa iyang rape?",
+		"answer": "Kinahanglan niya ipasa ang video sa kapulisan ingon nga ebidensya ug mag-report sa insidente."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa usa ka biktima kung ang iyang rape naglakip sa paggamit og droga?",
+		"answer": "Dapat siyang mag-report sa kapulisan ug sa mga medical professionals aron ma-assess ang epekto sa droga sa iyang kondisyon."
+	},
+	{
+		"question": "Unsa ang buhaton sa mga estudyante kung adunay kauban nga nag-report nga siya gi-rape?",
+		"answer": "Kinahanglan silang maghatag og suporta, magsaligan sa biktima, ug mag-encourage kanila nga mangayo og tabang gikan sa mga authorities."
+	},
+	{
+		"question": "Unsa ang himoon sa usa ka biktima nga gi-rape sa usa ka transportation service?",
+		"answer": "Ang biktima kinahanglan nga mag-report sa serbisyo sa transportasyon ug sa kapulisan aron maimbestigahan ang insidente."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa usa ka biktima nga gi-refer sa counseling service?",
+		"answer": "Kinahanglan nga mag-attend siya sa counseling sessions ug mag-open up bahin sa iyang mga kasinatian aron matabangan siya sa recovery."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima nga gi-rape sa iyang relasyon sa partner?",
+		"answer": "Dapat siya mag-report sa kapulisan ug mangayo og suporta gikan sa mga legal authorities ug NGOs."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa mga kauban sa biktima kung nagkinahanglan siya og medical assistance?",
+		"answer": "Dapat silang mag-uban sa biktima sa hospital o clinic ug siguruhon nga makadawat siya og husto nga atensyon."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima nga nabalaka sa epekto sa rape sa iyang mental health?",
+		"answer": "Ang biktima kinahanglan nga mag-seek og professional help gikan sa mga mental health practitioners."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa usa ka biktima nga walay financial resources aron makakuha og legal support?",
+		"answer": "Kinahanglan siya mangayo og tabang gikan sa mga NGOs nga naghatag og libreng legal assistance sa mga biktima."
+	},
+	{
+		"question": "Unsa ang himoon sa usa ka biktima nga naay mga ebidensya nga nakolekta sa insidente?",
+		"answer": "Kinahanglan niyang i-preserve ang mga ebidensya ug ipasa kini sa kapulisan sa pag-report sa kaso."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa usa ka biktima nga nagpasabot nga siya gi-rape sa usa ka public place?",
+		"answer": "Dapat siya mag-report sa mga otoridad ug mangita og mga saksi nga makasuporta sa iyang kaso."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima nga nagdesisyon nga mag-file og kaso batok sa aggressor?",
+		"answer": "Kinahanglan siya mag-seek og legal counsel ug mag-report sa kapulisan aron makasugod sa proseso."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa usa ka biktima nga gi-rape sa sulod sa public transportation?",
+		"answer": "Kinahanglan niya mag-report sa mga authorities sa transport service ug sa kapulisan aron maimbestigahan ang insidente."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa usa ka biktima kung ang iyang pamilya dili mosuporta sa pag-report?",
+		"answer": "Dapat siyang mangita og suporta gikan sa mga community organizations o NGOs nga naghatag og tabang sa mga biktima."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima nga gi-rape sa usa ka sikat nga tao?",
+		"answer": "Kinahanglan niya nga mag-report sa kapulisan ug mag-seek og legal counsel aron maprotektahan ang iyang katungod."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa mga biktima kung nag-atubang sila sa victim-blaming?",
+		"answer": "Dapat sila mag-seek og suporta gikan sa mga counselor o organizations nga nagtabang sa mga biktima sa rape."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima kung siya naglibog unsaon pag-file sa kaso?",
+		"answer": "Ang biktima kinahanglan mag-seek og legal advice gikan sa abogado o NGOs nga nag-specialize sa mga kaso sa rape."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa usa ka biktima nga nagduda nga ang iyang kaso mahimong ma-dismiss?",
+		"answer": "Dapat siyang makig-istorya sa iyang abogado aron masabtan ang mga posibilidad ug mga lakang nga angay buhaton."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa usa ka biktima nga gi-rape sa iyang kakilala?",
+		"answer": "Dapat siya mag-report sa insidente sa kapulisan ug mangayo og tabang sa mga legal authorities."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima kung ang agresor nag-threaten kaniya nga dili siya mag-report?",
+		"answer": "Kinahanglan niya ipasabot sa kapulisan ang threats ug mag-request og protection order kung kinahanglan."
+	},
+	{
+		"question": "Unsa ang RA 11313?",
+		"answer": "Ang RA 11313, o ang Safe Spaces Act, usa ka balaod nga naghatag proteksyon batok sa mga porma sa harassment sa mga pampublikong lugar."
+	},
+	{
+		"question": "Kinsa ang mga biktima nga gipasabot sa RA 11313?",
+		"answer": "Ang mga biktima sa RA 11313 naglakip sa tanan nga mga indibidwal nga nakasinati og sexual harassment, bisan unsang gender o edad."
+	},
+	{
+		"question": "Unsa ang mga porma sa harassment nga gina-address sa RA 11313?",
+		"answer": "Gina-address sa RA 11313 ang sexual harassment, catcalling, unwanted invitations, ug uban pang mga porma sa unwanted sexual advances."
+	},
+	{
+		"question": "Unsa ang mga dapit nga sakop sa RA 11313?",
+		"answer": "Ang RA 11313 naglakip sa mga pampublikong lugar sama sa mga eskwelahan, parks, malls, ug transportasyon publiko."
+	},
+	{
+		"question": "Unsa ang mga lakang nga angay buhaton sa usa ka biktima sa harassment?",
+		"answer": "Ang biktima kinahanglan nga mag-report sa mga authorities, sama sa kapulisan o sa mga opisyal sa eskwelahan, aron maimbestigahan ang insidente."
+	},
+	{
+		"question": "Unsa ang ginabuhat sa mga establisemento aron masiguro ang kaluwasan sa mga biktima?",
+		"answer": "Kinahanglan nga ang mga establisemento magpatuman og mga polisiya batok sa harassment ug maghatag og training sa ilang mga empleyado."
+	},
+	{
+		"question": "Unsa ang mga parusa alang sa mga nagbuhat og harassment?",
+		"answer": "Ang mga nagbuhat og harassment mahimong masakpan ug mag-atubang og multa o pagkabilanggo, depende sa severity sa ilang gibuhat."
+	},
+	{
+		"question": "Unsa ang gipasabot sa 'Safe Spaces' sa balaod?",
+		"answer": "'Safe Spaces' nagpasabot sa mga lugar nga libre sa harassment ug kung asa ang mga tawo makapuyo nga luwas ug komportable."
+	},
+	{
+		"question": "Unsaon pag-report sa usa ka insidente sa harassment?",
+		"answer": "Ang biktima mahimo mag-report sa mga authorities, pinaagi sa hotline sa kapulisan o sa mga designated personnel sa ilang lugar."
+	},
+	{
+		"question": "Kinsa ang responsable sa pagpatuman sa RA 11313?",
+		"answer": "Ang mga lokal nga gobyerno, eskwelahan, ug mga establisemento ang responsable sa pagpatuman sa mga regulasyon sa RA 11313."
+	},
+	{
+		"question": "Unsa ang papel sa mga eskwelahan sa RA 11313?",
+		"answer": "Ang mga eskwelahan kinahanglan maghimo og mga polisiya batok sa harassment ug mag-educate sa mga estudyante bahin sa mga isyu sa kaluwasan."
+	},
+	{
+		"question": "Unsa ang mga benepisyo sa RA 11313 para sa mga biktima?",
+		"answer": "Naghatag ang RA 11313 og mga mekanismo sa pag-report ug pagdawat sa suporta alang sa mga biktima sa harassment."
+	},
+	{
+		"question": "Unsaon pagtabang sa mga biktima sa harassment?",
+		"answer": "Ang mga kauban sa biktima kinahanglan maghatag og suporta, maminaw, ug mag-encourage kanila sa pag-report sa insidente."
+	},
+	{
+		"question": "Unsa ang mga mensahe nga kinahanglan ipalayo sa mga tao aron malikayan ang harassment?",
+		"answer": "Kinahanglan nga ipalayo ang mensahe nga ang mga tawo adunay katungod sa kaluwasan ug respeto sa ilang kaugalingon."
+	},
+	{
+		"question": "Unsa ang epekto sa harassment sa mga biktima?",
+		"answer": "Ang harassment mahimong magdala sa mental ug emotional distress, nga makapadako sa kahadlok ug pagsalig sa kaugalingon sa biktima."
+	},
+	{
+		"question": "Unsa ang mga training nga gikinahanglan alang sa mga empleyado?",
+		"answer": "Kinahanglan ang mga training bahin sa pag-ila sa harassment, pag-atiman sa mga biktima, ug sa mga responsibilidad sa pag-report."
+	},
+	{
+		"question": "Unsa ang mga pagsabot sa mga tawo sa RA 11313?",
+		"answer": "Importante nga masabtan sa tanan ang RA 11313 aron malikayan ang harassment ug masiguro ang kaluwasan sa tanan."
+	},
+	{
+		"question": "Unsaon pag-educate sa mga tawo bahin sa RA 11313?",
+		"answer": "Pinaagi sa mga seminar, workshops, ug awareness campaigns aron masabtan sa publiko ang mga regulasyon sa RA 11313."
+	},
+	{
+		"question": "Unsa ang ginabuhat sa gobyerno aron ipatuman ang RA 11313?",
+		"answer": "Ang gobyerno nagpatuman og mga programa ug polisiya nga nag-awhag sa pag-report ug nagtabang sa mga biktima sa harassment."
+	},
+	{
+		"question": "Unsa ang papel sa mga non-government organizations (NGOs) sa RA 11313?",
+		"answer": "Ang mga NGOs naghatag og suporta, impormasyon, ug serbisyo sa mga biktima sa harassment ug sa pag-edukar sa publiko."
+	},
+	{
+		"question": "Unsa ang mga penalties alang sa mga nagbuhat og harassment?",
+		"answer": "Ang mga nagbuhat og harassment mahimong mahatagan og multa nga nagsugod sa P1,000 hangtod P100,000 o pagkabilanggo sa pipila ka mga bulan."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa pag-rehabilitate sa mga biktima?",
+		"answer": "Ang mga biktima mahimo mag-seek og counseling, support groups, ug legal assistance aron matabangan sila sa pag-recover."
+	},
+	{
+		"question": "Unsaon pag-address sa mga isyu sa harassment sa mga pampublikong lugar?",
+		"answer": "Kinahanglan nga ang mga establishmento magpatuman og mga polisiya ug ipahibalo ang mga tawo sa mga saktong pamaagi sa pag-report."
+	},
+	{
+		"question": "Unsa ang papel sa mga media sa pag-promote sa RA 11313?",
+		"answer": "Ang mga media adunay papel sa pag-edukar sa publiko ug paghatag og impormasyon mahitungod sa RA 11313."
+	},
+	{
+		"question": "Unsa ang mga restriksyon sa mga offender sa RA 11313?",
+		"answer": "Ang mga offender mahimong masakpan nga nagatuman sa probation o ginabawal sa pagsulod sa mga lugar nga adunay mga biktima."
+	},
+	{
+		"question": "Unsa ang mga dako nga isyu nga gina-address sa RA 11313?",
+		"answer": "Ang RA 11313 nag-address sa mga isyu sama sa gender-based violence, harassment, ug ang panginahanglan sa proteksyon sa mga biktima."
+	},
+	{
+		"question": "Unsa ang mga epekto sa RA 11313 sa komunidad?",
+		"answer": "Ang RA 11313 naghatag og mas luwas nga palibot sa komunidad ug nag-awhag sa mga tawo nga mag-report sa mga insidente sa harassment."
+	},
+	{
+		"question": "Unsa ang mga resources nga available sa mga biktima sa RA 11313?",
+		"answer": "Adunay mga resources sama sa mga hotlines, support groups, ug NGOs nga naghatag og tabang sa mga biktima."
+	},
+	{
+		"question": "Unsa ang mga lakang sa pagpatuman sa RA 11313 sa mga barangay?",
+		"answer": "Ang mga barangay kinahanglan magpatuman og mga polisiya ug mag-organize og mga seminar aron ipahibalo ang RA 11313."
+	},
+	{
+		"question": "Unsa ang role sa local government sa RA 11313?",
+		"answer": "Ang local government adunay responsibilidad sa pagpatuman sa RA 11313 pinaagi sa pag-implement sa mga programa ug polisiya."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa mga biktima kung dili sila gi-respeto sa authorities?",
+		"answer": "Ang mga biktima mahimo mag-report sa mga higher authorities o sa mga NGO kung wala sila makadawat og suporta."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima kung siya gi-catcall samtang naglakaw sa dalan?",
+		"answer": "Ang biktima mahimo nga magpadayon sa paglakaw ug dili magtagad, o mahimong mag-report sa kapulisan kung nagkinahanglan og tabang."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa usa ka estudyante kung ang iyang kauban sa klase nag-harass kaniya?",
+		"answer": "Dapat siya mag-report sa teacher o sa school counselor aron ma-actionan ang sitwasyon."
+	},
+	{
+		"question": "Unsaon pag-report sa usa ka insidente sa harassment sa eskwelahan?",
+		"answer": "Ang estudyante kinahanglan moadto sa guidance office o sa principal aron ipahibalo ang nahitabo."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima nga gi-eskandalo sa public transport?",
+		"answer": "Ang biktima kinahanglan nga mag-report sa driver o sa mga awtoridad nga naa sa terminal."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa usa ka babae nga gi-harass sa trabaho?",
+		"answer": "Kinahanglan siyang mag-file og complaint sa HR o sa management para maimbestigahan ang insidente."
+	},
+	{
+		"question": "Unsa ang mga lakang nga angay buhaton kung ang usa ka tawo nagdala og pahayag nga naa siya sa mga biktima sa harassment?",
+		"answer": "Ang mga biktima kinahanglan nga mag-seek og legal assistance ug support gikan sa mga NGOs."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa usa ka biktima nga gi-rape sa usa ka public place?",
+		"answer": "Dapat siya mag-report sa kapulisan sa pinakadali nga panahon ug magkuha og medical assistance."
+	},
+	{
+		"question": "Unsaon pagtabang sa usa ka kauban nga naay kasinatian sa harassment?",
+		"answer": "Kinahanglan mohatag og emosyonal nga suporta, maminaw sa iyang mga istorya, ug encourage siya sa pag-report sa insidente."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima nga nagduda nga wala siya girespeto sa mga authorities?",
+		"answer": "Mahimo siyang mag-report sa mas taas nga level sa authorities o sa mga NGOs nga naghatag og suporta."
+	},
+	{
+		"question": "Unsa ang gikinahanglan sa usa ka establisemento aron magpatuman sa RA 11313?",
+		"answer": "Kinahanglan nga sila maghimo og mga polisiya batok sa harassment ug mag-conduct og training para sa mga empleyado."
+	},
+	{
+		"question": "Unsaon pag-report sa mga insidente sa harassment sa online platforms?",
+		"answer": "Ang biktima kinahanglan nga i-block ang offender ug mag-report sa platform nga gigamit."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka tawo nga nakakita sa harassment?",
+		"answer": "Dapat siyang makig-intervene kung luwas, o mag-report sa mga authorities aron makatabang sa biktima."
+	},
+	{
+		"question": "Unsa ang epekto sa harassment sa mental health sa biktima?",
+		"answer": "Ang harassment makahatag og mental stress, anxiety, ug pagka-depressed sa mga biktima."
+	},
+	{
+		"question": "Unsa ang gikinahanglan nga suporta sa mga biktima sa harassment?",
+		"answer": "Ang mga biktima kinahanglan og legal support, counseling, ug moral support gikan sa ilang pamilya ug mga amigo."
+	},
+	{
+		"question": "Unsaon pag-protektar sa kaugalingon gikan sa harassment sa pampublikong lugar?",
+		"answer": "Dapat magpuyo sa mga crowded areas, magdala og cellphone, ug mahimong moadto sa mga tawo kung nagkinahanglan og tabang."
+	},
+	{
+		"question": "Unsa ang mga responsibilidad sa mga establishments sa pagpatuman sa RA 11313?",
+		"answer": "Kinahanglan nga maghimo sila og mga polisiya, maghimo og training sa mga empleyado, ug ipahibalo ang mga biktima sa ilang mga katungod."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa mga biktima kung ang insidente sa harassment nahitabo sa online?",
+		"answer": "Dapat silang mag-report sa platform ug i-preserve ang mga ebidensya sama sa screenshots."
+	},
+	{
+		"question": "Unsa ang gikinahanglan aron mas mapalambo ang awareness sa RA 11313?",
+		"answer": "Kinahanglan nga aduna’y mga seminars ug campaigns aron ma-edukar ang publiko mahitungod sa mga pamaagi ug mga katungod."
+	},
+	{
+		"question": "Unsa ang buhaton sa usa ka biktima nga nagkinahanglan og tabang sa pagka-distrust sa mga authorities?",
+		"answer": "Mahimo siyang mangita og support gikan sa NGOs o sa mga kauban nga kasaligan."
+	},
+	{
+		"question": "Unsa ang epekto sa katilingban sa pag-implement sa RA 11313?",
+		"answer": "Ang RA 11313 makahatag og mas luwas nga palibot sa katilingban ug mag-awhag sa mga tawo sa pag-report sa harassment."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa mga tao aron ipakita ang suporta sa mga biktima?",
+		"answer": "Dapat sila maghimo og mga advocacy campaigns ug magsugod og mga discussions bahin sa mga isyu sa harassment."
+	},
+	{
+		"question": "Unsa ang mga penalties alang sa mga nagbuhat og harassment sa ilalim sa RA 11313?",
+		"answer": "Ang mga nagbuhat og harassment mahimong mag-atubang og multa ug pagkabilanggo, depende sa klase sa offense."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa usa ka biktima kung ang insidente nahitabo sa workplace?",
+		"answer": "Dapat siya mag-report sa HR department ug mag-file og formal complaint aron ma-actionan ang sitwasyon."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa usa ka biktima nga gi-harass sa social media?",
+		"answer": "Kinahanglan niya i-report ang offender sa platform ug kuhaan og screenshot isip ebidensya."
+	},
+	{
+		"question": "Unsa ang role sa mga police sa pagpatuman sa RA 11313?",
+		"answer": "Ang mga police kinahanglan mag-provide og assistance sa mga biktima, mag-imbestiga sa mga reklamo, ug magpatuman sa mga balaod."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa pagprotekta sa mga biktima sa harassment?",
+		"answer": "Ang mga biktima kinahanglan mag-seek og legal advice, counseling, ug protection gikan sa mga authorities."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa mga biktima kung sila nagduda nga dili sila girespeto sa police?",
+		"answer": "Kinahanglan nila ipasabot ang isyu sa mas taas nga authorities o sa mga NGOs nga nagahatag og suporta."
+	},
+	{
+		"question": "Unsa ang papel sa community sa pagprotekta sa mga biktima sa harassment?",
+		"answer": "Ang community kinahanglan maghimo og mga initiatives aron ipromote ang safety ug mag-awhag sa mga tawo sa pag-report."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa usa ka biktima kung siya nagkinahanglan og emergency support?",
+		"answer": "Kinahanglan siya moadto sa pinakamalapit nga police station o hospital aron makadawat og tabang."
+	},
+	{
+		"question": "Unsa ang mga rights sa mga biktima sa RA 11313?",
+		"answer": "Ang mga biktima adunay katungod nga mag-report, makadawat og suporta, ug magpangayo og legal assistance."
+	},
+	{
+		"question": "Unsa ang gikinahanglan aron ma-implement ang RA 11313 sa mga universities?",
+		"answer": "Kinahanglan nga maghimo og mga policies ug mga seminar aron ma-edukar ang mga estudyante ug mga faculty."
+	},
+	{
+		"question": "Unsa ang epekto sa social media sa pagpakita sa mga insidente sa harassment?",
+		"answer": "Ang social media makahatag og plataporma sa mga biktima aron ipaabot ang ilang mga kasinatian ug makadawat og suporta."
+	},
+	{
+		"question": "Unsa ang role sa mga youth organizations sa RA 11313?",
+		"answer": "Ang mga youth organizations adunay papel sa pag-promote sa awareness ug pagtabang sa mga biktima nga mag-report."
+	},
+	{
+		"question": "Unsa ang RA 7610?",
+		"answer": "Ang RA 7610 usa ka balaod nga naghatag og espesyal nga proteksyon sa mga bata batok sa abuso, eksploitasyon, ug diskriminasyon."
+	},
+	{
+		"question": "Kinsa ang gina-target sa RA 7610?",
+		"answer": "Ang RA 7610 nag-target sa mga bata nga ginikanan nga wala sa hustong pagtagad, mga biktima sa abuso, ug mga bata nga naa sa peligro."
+	},
+	{
+		"question": "Unsa ang mga porma sa abuso nga gina-cover sa RA 7610?",
+		"answer": "Gina-cover sa RA 7610 ang pisikal, emosyonal, ug sexual nga abuso, ingon man ang neglect sa mga bata."
+	},
+	{
+		"question": "Unsa ang mga penalidad alang sa mga nagbuhat og abuso sa mga bata?",
+		"answer": "Ang mga nagbuhat og abuso sa mga bata mahimong atubangon ang pagkabilanggo ug multa, depende sa klase sa abuso."
+	},
+	{
+		"question": "Unsaon pag-report sa kaso sa abuso sa bata?",
+		"answer": "Ang mga kaso sa abuso sa bata mahimong i-report sa mga authorities sama sa kapulisan o sa Department of Social Welfare and Development (DSWD)."
+	},
+	{
+		"question": "Unsa ang mga katungod sa mga bata nga gina-protektahan sa RA 7610?",
+		"answer": "Ang mga bata adunay katungod sa proteksyon, edukasyon, ug usa ka malipayong kinabuhi."
+	},
+	{
+		"question": "Kinsa ang responsable sa pagpatuman sa RA 7610?",
+		"answer": "Ang mga lokal nga gobyerno, mga ahensya sa gobyerno, ug mga non-government organizations ang responsable sa pagpatuman sa RA 7610."
+	},
+	{
+		"question": "Unsa ang gina-require nga training alang sa mga authorities sa pagpatuman sa RA 7610?",
+		"answer": "Gina-require ang mga training nga nakatutok sa proteksyon sa mga bata ug pag-imbestiga sa mga kaso sa abuso."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa pag-imbestiga sa mga kaso sa abuso?",
+		"answer": "Ang mga pamaagi sa pag-imbestiga naglakip sa pag-interview sa mga biktima, mga witnesses, ug pagkuha sa mga ebidensya."
+	},
+	{
+		"question": "Unsaon pagpanalipod sa mga bata gikan sa abuso?",
+		"answer": "Ang mga bata kinahanglan nga i-educate bahin sa ilang mga katungod ug unsaon pagreport kung sila gi-abuso."
+	},
+	{
+		"question": "Unsa ang epekto sa abuso sa mga bata?",
+		"answer": "Ang abuso makahatag og pisikal ug mental nga trauma sa mga bata, nga mahimong magpadayon hangtod sa pagkahamtong."
+	},
+	{
+		"question": "Unsa ang mga kinahanglanon sa mga child protective services?",
+		"answer": "Kinahanglan nga adunay mga trained professionals nga andam motabang sa mga bata nga biktima sa abuso."
+	},
+	{
+		"question": "Kinsa ang mga bata nga ginatukod nga biktima sa RA 7610?",
+		"answer": "Ang mga bata nga gi-abuso, gi-exploit, o gi-neglect sa ilang mga ginikanan o guardians."
+	},
+	{
+		"question": "Unsa ang mga legal remedies nga available sa mga biktima sa abuso?",
+		"answer": "Ang mga biktima mahimong mag-file og kaso batok sa mga nagbuhat sa abuso ug mangayo og proteksyon."
+	},
+	{
+		"question": "Unsa ang gina-require sa mga ginikanan sa RA 7610?",
+		"answer": "Gina-require ang mga ginikanan nga hatagan og maayong pagtagad ang ilang mga anak ug i-protektahan sila gikan sa abuso."
+	},
+	{
+		"question": "Unsa ang papel sa mga teachers sa pag-implement sa RA 7610?",
+		"answer": "Ang mga teachers kinahanglan mag-report sa mga kaso sa abuso nga ilang makita o masairan."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa prevention sa abuso sa mga bata?",
+		"answer": "Ang mga pamaagi sa prevention naglakip sa education, awareness campaigns, ug community involvement."
+	},
+	{
+		"question": "Unsa ang ginasulti sa RA 7610 bahin sa child labor?",
+		"answer": "Ang RA 7610 nagbawal sa child labor ug naghatag og proteksyon sa mga bata nga nagtrabaho."
+	},
+	{
+		"question": "Unsa ang mga consequences sa child abuse?",
+		"answer": "Ang child abuse makahatag og long-term effects sa physical, emotional, ug mental health sa bata."
+	},
+	{
+		"question": "Kinsa ang mahimong mag-file og kaso sa abuso sa bata?",
+		"answer": "Ang bisan kinsa nga nakasaksi sa abuso o ang biktima mismo mahimong mag-file og kaso."
+	},
+	{
+		"question": "Unsa ang mga role sa community sa pagprotekta sa mga bata?",
+		"answer": "Ang community adunay papel sa pag-monitor ug pag-report sa mga kaso sa abuso, ingon man sa paghatag og suporta."
+	},
+	{
+		"question": "Unsa ang mga kasagarang porma sa abuso nga ma-experience sa mga bata?",
+		"answer": "Kasagaran nga porma sa abuso mao ang sexual abuse, physical abuse, ug emotional abuse."
+	},
+	{
+		"question": "Unsa ang mga kinahanglanon sa mga child care facilities?",
+		"answer": "Kinahanglan nga ang mga child care facilities adunay mga trained staff ug mga protocols sa pagprotekta sa mga bata."
+	},
+	{
+		"question": "Unsa ang papel sa media sa pag-implement sa RA 7610?",
+		"answer": "Ang media mahimong mag-edukar ug magpataas sa awareness bahin sa mga isyu sa child abuse."
+	},
+	{
+		"question": "Unsa ang ginasulti sa RA 7610 bahin sa trafficking sa mga bata?",
+		"answer": "Gina-bawal sa RA 7610 ang trafficking ug gihatagan og proteksyon ang mga biktima."
+	},
+	{
+		"question": "Unsaon pag-secure og legal assistance alang sa mga biktima?",
+		"answer": "Ang mga biktima mahimong mangayo og tabang gikan sa mga NGOs o sa legal aid offices."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa paghatag og psychological support sa mga biktima?",
+		"answer": "Ang mga biktima kinahanglan mahatagan og counseling ug access sa mental health services."
+	},
+	{
+		"question": "Unsa ang gina-require nga documentation sa mga kaso sa abuso?",
+		"answer": "Kinahanglan nga i-document ang mga ebidensya sama sa medical reports ug testimonies sa mga witnesses."
+	},
+	{
+		"question": "Kinsa ang mahimong mag-imbestiga sa mga kaso sa abuso sa mga bata?",
+		"answer": "Ang mga social workers ug kapulisan ang responsable sa pag-imbestiga sa mga kaso sa abuso."
+	},
+	{
+		"question": "Unsa ang mga resources nga magamit sa mga biktima?",
+		"answer": "Adunay mga helplines, support groups, ug counseling services nga magamit alang sa mga biktima."
+	},
+	{
+		"question": "Unsa ang mga penalties alang sa child trafficking?",
+		"answer": "Ang mga nagbuhat og trafficking sa mga bata mahimong atubangon ang pagkabilanggo ug dako nga multa."
+	},
+	{
+		"question": "Unsa ang papel sa mga NGOs sa pag-protektar sa mga bata?",
+		"answer": "Ang mga NGOs naghatag og suporta, resources, ug advocacy alang sa mga biktima sa abuso."
+	},
+	{
+		"question": "Unsaon pagtabang sa mga bata nga nag-antos sa abuso?",
+		"answer": "Ang mga bata nga nag-antos sa abuso kinahanglan nga i-refer sa mga child protective services ug counselling."
+	},
+	{
+		"question": "Unsa ang mga epekto sa neglect sa mga bata?",
+		"answer": "Ang neglect makahatag og negative effects sa physical, emotional, ug cognitive development sa mga bata."
+	},
+	{
+		"question": "Unsa ang ginasulti sa RA 7610 bahin sa mga bata nga gi-abuso sa internet?",
+		"answer": "Gina-protektahan sa RA 7610 ang mga bata gikan sa online exploitation ug abuse."
+	},
+	{
+		"question": "Unsaon pag-inform sa mga bata bahin sa ilang mga katungod?",
+		"answer": "Ang mga bata kinahanglan ma-educate bahin sa ilang mga katungod pinaagi sa school programs ug community activities."
+	},
+	{
+		"question": "Unsa ang mga kinakailangan nga protocols sa pag-atubang sa mga kaso sa abuso?",
+		"answer": "Kinahanglan nga adunay mga protocols sa reporting, investigation, ug support sa mga biktima."
+	},
+	{
+		"question": "Unsa ang mga signs nga ang usa ka bata gi-abuso?",
+		"answer": "Mga signs sa abuso naglakip sa physical injuries, emotional withdrawal, ug mga changes sa behavior."
+	},
+	{
+		"question": "Unsa ang mga responsibilities sa mga guardians sa mga bata?",
+		"answer": "Ang mga guardians responsable sa pag-protektar ug paghatag og maayong pagtagad sa mga bata."
+	},
+	{
+		"question": "Unsa ang ginasulti sa RA 7610 bahin sa educational opportunities sa mga biktima?",
+		"answer": "Ang RA 7610 naghatag og importansya sa edukasyon sa mga biktima ug nag-require nga makatanggap sila og suporta."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa pag-protektar sa mga bata gikan sa sexual exploitation?",
+		"answer": "Kinahanglan nga i-educate ang mga bata sa mga peligro ug sa pag-report sa bisan unsang panghitabo nga makahatag kanila og kalisang."
+	},
+	{
+		"question": "Unsa ang mga obligasyon sa mga healthcare providers sa RA 7610?",
+		"answer": "Gina-require ang mga healthcare providers nga i-report ang mga kaso sa suspected child abuse sa mga awtoridad."
+	},
+	{
+		"question": "Unsa ang role sa mga komunidad sa pag-protektar sa mga bata?",
+		"answer": "Ang mga komunidad kinahanglan magtinabangay sa pag-monitor sa mga bata ug paghatag og suporta sa mga biktima."
+	},
+	{
+		"question": "Unsaon pag-access sa mga legal resources alang sa mga biktima?",
+		"answer": "Ang mga biktima mahimong mangayo og tabang gikan sa mga NGOs o sa government legal aid offices nga nagatanyag og free legal assistance."
+	},
+	{
+		"question": "Unsa ang mga epekto sa emotional abuse sa mga bata?",
+		"answer": "Ang emotional abuse makahatag og long-term psychological effects sama sa depression ug low self-esteem."
+	},
+	{
+		"question": "Unsa ang mga lakang aron mahibal-an kung ang usa ka bata gi-abuso?",
+		"answer": "Ang mga signs sama sa sudden changes in behavior, withdrawal, ug physical injuries mahimong magpaila nga ang bata gi-abuso."
+	},
+	{
+		"question": "Unsa ang kinahanglan buhaton kung makakita ka og abuso sa bata?",
+		"answer": "Kinahanglan nga i-report dayon ang insidente sa mga authorities o sa Department of Social Welfare and Development (DSWD)."
+	},
+	{
+		"question": "Unsa ang ginasulti sa RA 7610 bahin sa paggamit sa social media sa mga bata?",
+		"answer": "Gina-require sa RA 7610 nga protektahan ang mga bata gikan sa online exploitation ug abuse, labi na sa paggamit sa social media."
+	},
+	{
+		"question": "Unsa ang papel sa mga volunteers sa pag-protektar sa mga bata?",
+		"answer": "Ang mga volunteers mahimong mag-apil sa awareness campaigns ug sa mga programa sa edukasyon bahin sa child protection."
+	},
+	{
+		"question": "Unsa ang mga kinahanglanon sa mga bata nga gi-refer sa shelter homes?",
+		"answer": "Kinahanglan nga ang mga shelter homes adunay mga trained staff ug mga resources aron mahatagan og proteksyon ang mga bata."
+	},
+	{
+		"question": "Unsa ang ginasulti sa RA 7610 bahin sa mga bata nga naka-experience og bullying?",
+		"answer": "Gina-require sa RA 7610 ang mga eskwelahan nga mag-implement og mga programa aron ma-address ang bullying ug protectahan ang mga biktima."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa pag-monitor sa mga bata nga gi-abuso?",
+		"answer": "Ang mga pamaagi naglakip sa regular nga check-ups, support groups, ug counselling sessions."
+	},
+	{
+		"question": "Unsa ang gina-require nga documentation sa mga child protection cases?",
+		"answer": "Kinahanglan ang mga medical reports, police reports, ug testimonies sa mga witnesses aron makab-ot ang hustisya."
+	},
+	{
+		"question": "Unsaon pag-apil sa mga advocacy programs alang sa mga biktima?",
+		"answer": "Ang mga indibidwal mahimong mag-apil sa mga NGO nga nagahatag og training ug support sa mga biktima sa abuso."
+	},
+	{
+		"question": "Unsa ang ginasulti sa RA 7610 bahin sa mga bata nga involved sa illegal activities?",
+		"answer": "Gina-require sa RA 7610 nga ang mga bata nga involved sa illegal activities nga mahatagan og rehabilitasyon ug support."
+	},
+	{
+		"question": "Unsa ang mga resources nga magamit alang sa mga ginikanan nga nag-atubang sa abuso?",
+		"answer": "Adunay mga support groups ug counseling services nga magamit alang sa mga ginikanan nga nag-atubang sa mga kaso sa abuso."
+	},
+	{
+		"question": "Unsa ang mga preventive measures sa sexual abuse sa mga bata?",
+		"answer": "Ang mga preventive measures naglakip sa education sa mga bata, open communication, ug pag-monitor sa ilang mga kalihokan."
+	},
+	{
+		"question": "Unsa ang ginasulti sa RA 7610 bahin sa mga bata nga may disability?",
+		"answer": "Gina-protektahan sa RA 7610 ang mga bata nga may disability gikan sa exploitation ug abuse, nga naghatag og espesyal nga atensyon sa ilang mga panginahanglan."
+	},
+	{
+		"question": "Unsa ang gina-require nga training sa mga teachers bahin sa RA 7610?",
+		"answer": "Gina-require ang mga teachers nga mag-attend og training sa child protection ug sa mga pamaagi sa pag-report sa abuse."
+	},
+	{
+		"question": "Unsa ang papel sa mga health professionals sa pag-atubang sa child abuse?",
+		"answer": "Ang mga health professionals kinahanglan nga alerto sa signs sa child abuse ug mag-report sa mga insidente nga ilang makita."
+	},
+	{
+		"question": "Unsa ang mga suporta nga magamit sa mga bata nga gi-abuso?",
+		"answer": "Adunay mga shelters, counseling services, ug mga programa nga naghatag og suporta sa mga bata nga gi-abuso."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung makakita ka og bata nga nag-antos sa pisikal nga abuso?",
+		"answer": "Kinahanglan nga i-report ang insidente sa kapulisan o sa Department of Social Welfare and Development (DSWD) aron matabangan ang bata."
+	},
+	{
+		"question": "Giunsa pag-atiman ang usa ka bata nga naay mga signs sa emotional abuse?",
+		"answer": "Kinahanglan nga ang bata hatagan og suporta pinaagi sa counseling ug pag-establish og open communication sa pamilya."
+	},
+	{
+		"question": "Unsaon nimo pagtabang kung ang imong amigo nag-ingon nga gi-abuso siya sa iyang ginikanan?",
+		"answer": "Angay siyang i-encourage nga mag-report sa insidente sa mga authorities o sa trusted adult aron makadawat siya og tabang."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong anak nakakita og sexual abuse sa iyang kauban sa eskwelahan?",
+		"answer": "Kinahanglan nga istoryahon ang imong anak ug ipasabut niya ang importansya sa pag-report sa insidente sa teacher o sa authorities."
+	},
+	{
+		"question": "Giunsa nimo pagprotektar ang imong anak gikan sa online exploitation?",
+		"answer": "Angay nga itudlo sa akong anak ang mga peligro sa online activities ug unsaon pag-report kung sila gi-exploit."
+	},
+	{
+		"question": "Unsaon pag-respond sa usa ka bata nga nag-ingon nga nahulog siya sa mga illegal activities?",
+		"answer": "Kinahanglan nga makig-istorya sa bata aron masabtan ang sitwasyon ug i-refer siya sa counseling o rehabilitation program."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong neighbor nag-report nga ang ilang anak gi-abuso?",
+		"answer": "Kinahanglan nga magtukod og support system alang sa imong neighbor ug i-encourage sila nga mag-report sa mga awtoridad."
+	},
+	{
+		"question": "Unsa ang buhaton kung ang imong bata nag-reject sa pag-adto sa counseling tungod sa trauma?",
+		"answer": "Kinahanglan nga pasabton ang bata nga ang counseling makatabang sa iyang pag-ayo ug mahimong himoon kini nga friendly ug safe nga environment."
+	},
+	{
+		"question": "Unsa ang imong responsibilidad kung ikaw usa ka teacher ug nakahibalo ka sa abuso sa bata?",
+		"answer": "Kinahanglan nga i-report dayon ang insidente sa mga awtoridad ug siguruhon nga ang bata protektado gikan sa dugang nga peligro."
+	},
+	{
+		"question": "Giunsa pag-atiman ang usa ka bata nga nahimong biktima sa bullying sa eskwelahan?",
+		"answer": "Kinahanglan nga hatagan ang bata og suporta pinaagi sa pag-establish og open communication ug pag-coordinate sa school authorities."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka bata nag-ingon nga dili siya gusto magpuyo sa iyang balay tungod sa abuso?",
+		"answer": "Kinahanglan nga i-report ang sitwasyon sa mga social services aron sila maka-assess sa kahimtang sa bata ug sa pamilya."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong kauban sa trabaho nag-ingon nga ang iyang anak gi-abuso sa daycare?",
+		"answer": "Kinahanglan nga i-advise siya nga i-report ang insidente sa daycare management ug sa mga authorities aron maimbestigahan."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong anak nag-pakita og unusual nga behavior nga nagpasabot sa abuso?",
+		"answer": "Kinahanglan nga mag-istorya sa akong anak aron masabtan ang iyang gibati ug i-refer siya sa usa ka professional kung kinahanglan."
+	},
+	{
+		"question": "Unsa ang mga signs nga nagpakita nga ang usa ka bata gi-abuso?",
+		"answer": "Ang mga signs naglakip sa mga physical injuries, emotional withdrawal, ug mga drastic changes sa behavior sa bata."
+	},
+	{
+		"question": "Giunsa pag-atiman ang usa ka bata nga ginasuspetsa nga gi-abuso sexually?",
+		"answer": "Kinahanglan nga i-report ang insidente sa mga authorities ug i-provide ang bata sa medical examination ug counseling."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong bata nagka-problema sa pag-establish og relationships tungod sa trauma?",
+		"answer": "Kinahanglan nga itudlo ang bata sa mga skills sa pag-establish og healthy relationships ug i-refer siya sa therapist kung kinahanglan."
+	},
+	{
+		"question": "Unsa ang imong responsibilidad kung ikaw usa ka social worker ug nakadawat ka og report sa child abuse?",
+		"answer": "Kinahanglan nga imbestigahan ang report dayon ug siguruhon nga ang bata makadawat og protective services."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka bata nag-antos sa emotional abuse sa iyang pamilya?",
+		"answer": "Kinahanglan nga i-refer ang bata sa counseling services aron matabangan siya nga ma-overcome ang epekto sa emotional abuse."
+	},
+	{
+		"question": "Unsaon pagmonitor sa kahimtang sa usa ka bata nga gihatagan og protective custody?",
+		"answer": "Kinahanglan nga regular nga ma-assess ang kahimtang sa bata ug siguruhon nga siya naa sa safe environment."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong anak dili magtugot sa mga authorities nga mo-adto sa inyong balay para sa investigation?",
+		"answer": "Kinahanglan nga pasabton ang imong anak ang importansya sa pagpaubos sa mga authorities aron matabangan siya sa iyang sitwasyon."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung imong na-obserbahan nga ang bata sa imong silingan kanunay nga nagasamad?",
+		"answer": "Kinahanglan nga i-report ang insidente sa mga authorities aron maimbestigahan ang sitwasyon sa bata."
+	},
+	{
+		"question": "Giunsa nimo pagtabang kung ang imong anak nag-ingon nga gi-bully siya sa iyang classmates?",
+		"answer": "Kinahanglan nga makig-istorya sa teacher ug sa school administration aron ma-address ang bullying situation."
+	},
+	{
+		"question": "Unsa ang imong responsibilidad kung ikaw usa ka guardian ug nahibaw-an nimo nga ang bata naay abuse history?",
+		"answer": "Kinahanglan nga i-secure ang safety sa bata ug i-coordinate ang mga angay nga serbisyo nga makatabang sa iyang healing."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong bata nagpasabot nga siya naay kauban nga gi-abuso?",
+		"answer": "Angay nga i-encourage siya nga mag-report sa insidente ug tabangan siya sa proseso sa pag-report."
+	},
+	{
+		"question": "Giunsa nimo pag-atiman ang usa ka bata nga naay trauma gikan sa sexual abuse?",
+		"answer": "Kinahanglan nga hatagan siya og therapy ug suporta aron ma-address ang mga emotional scars nga nadawat niya."
+	},
+	{
+		"question": "Unsaon pagmonitor sa mga bata nga gikasuhan og abuse?",
+		"answer": "Kinahanglan nga ang mga authorities magbuhat og regular check-ups sa mga bata aron masiguro ang ilang safety."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka bata nag-antos sa economic exploitation?",
+		"answer": "Kinahanglan nga i-report ang insidente sa mga awtoridad aron sila makahatag og suporta sa bata."
+	},
+	{
+		"question": "Unsa ang imong responsibilidad kung ikaw usa ka school counselor nga nakahibalo sa abuso sa usa ka estudyante?",
+		"answer": "Kinahanglan nga i-report ang insidente sa appropriate authorities ug i-provide ang support sa estudyante."
+	},
+	{
+		"question": "Giunsa pagtabang ang komunidad sa pag-rehabilitate sa mga bata nga gi-abuso?",
+		"answer": "Ang komunidad mahimong mag-organize og programs nga naghatag og support ug resources sa mga biktima."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong anak nag-pakita og signs sa depression tungod sa abuso?",
+		"answer": "Kinahanglan nga i-refer siya sa mental health professional para sa angay nga therapy ug counseling."
+	},
+	{
+		"question": "Unsaon pag-establish og support group alang sa mga biktima sa abuso?",
+		"answer": "Kinahanglan magtukod og grupo nga naghatag og lugar alang sa mga biktima aron sila maka-share sa ilang experiences ug makadawat og suporta."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka bata nag-ingon nga siya gi-pressure sa iyang mga kauban nga mag-apil sa illegal activities?",
+		"answer": "Kinahanglan nga i-encourage siya nga i-report ang sitwasyon ug ipasabut nga dili siya nag-inusara sa iyang sitwasyon."
+	},
+	{
+		"question": "Giunsa nimo paghatag og impormasyon sa mga bata bahin sa ilang rights?",
+		"answer": "Angay nga itudlo sa mga bata ang ilang rights pinaagi sa education programs ug workshops."
+	},
+	{
+		"question": "Unsa ang mga pamaagi aron masiguro nga ang mga bata safe sa ilang mga balay?",
+		"answer": "Kinahanglan nga mag-establish og safety protocols ug mag-educate sa mga ginikanan sa child protection."
+	},
+	{
+		"question": "Unsa ang imong responsibilidad kung ikaw usa ka community leader nga nakahibalo sa child abuse cases?",
+		"answer": "Kinahanglan nga i-advocate ang child protection policies ug makig-ugyon sa mga authorities aron mahatagan og proteksyon ang mga bata."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang bata sa imong silingan nagreklamo sa abusadong sitwasyon?",
+		"answer": "Kinahanglan nga makig-istorya sa bata ug ipahibalo ang sitwasyon sa mga authorities alang sa hustisya."
+	},
+	{
+		"question": "Giunsa pagprotekta ang mga bata gikan sa emotional neglect?",
+		"answer": "Kinahanglan nga i-promote ang healthy family dynamics ug open communication sa mga pamilya."
+	},
+	{
+		"question": "Unsa ang mga services nga magamit alang sa mga biktima sa abuso?",
+		"answer": "Adunay counseling, medical assistance, ug legal support services nga magamit alang sa mga biktima."
+	},
+	{
+		"question": "Unsaon pag-encourage sa mga bata nga i-report ang abuse?",
+		"answer": "Kinahanglan nga ipahibalo sa mga bata nga walay sala sa pag-report ug nga ang mga authorities andam sa pagtabang."
+	},
+	{
+		"question": "Unsa ang gina-require nga action kung ang usa ka bata nagpakita og behavioral issues tungod sa abuso?",
+		"answer": "Kinahanglan nga i-assess ang bata sa usa ka mental health professional ug i-implement ang angay nga interventions."
+	},
+	{
+		"question": "Unsa ang RA 7877?",
+		"answer": "Ang RA 7877, o Anti-Sexual Harassment Act of 1995, usa ka balaod nga nagprotekta batok sa sexual harassment sa mga lugar nga trabahoan ug eskwelahan."
+	},
+	{
+		"question": "Kinsa ang ginasakupan sa RA 7877?",
+		"answer": "Ang RA 7877 naglakip sa tanan nga empleyado, estudyante, ug bisan kinsa nga nagtrabaho sa mga institusyon sa edukasyon ug sa mga pribado o pampublikong sektor."
+	},
+	{
+		"question": "Unsa ang sexual harassment?",
+		"answer": "Ang sexual harassment mao ang bisan unsang porma sa unwanted sexual advances, verbal o physical, nga nakapasakit sa usa ka tawo."
+	},
+	{
+		"question": "Unsa ang mga porma sa sexual harassment?",
+		"answer": "Ang mga porma sa sexual harassment naglakip sa unwanted sexual comments, inappropriate touching, ug sexual favors nga gipangayo sa usa ka tawo."
+	},
+	{
+		"question": "Unsa ang mga hakbang nga angay buhaton kung ikaw biktima sa sexual harassment?",
+		"answer": "Kinahanglan nga i-report ang insidente sa mga authorities o sa Human Resource Department, ug pangitaon ang suporta sa mga kasapi sa pamilya o mga kaibigan."
+	},
+	{
+		"question": "Kinsay responsable sa pagpatuman sa RA 7877?",
+		"answer": "Ang mga employers ug mga institusyon sa edukasyon kinahanglan nga magpatuman og mga polisiya ug mga programa aron mapugngan ang sexual harassment."
+	},
+	{
+		"question": "Unsa ang mga penalidad alang sa mga naglapas sa RA 7877?",
+		"answer": "Ang mga naglapas sa RA 7877 mahimong mapasakaan og kaso ug mahatagan og multa o pagkabilanggo."
+	},
+	{
+		"question": "Unsa ang papel sa mga employers sa pagprotektar sa mga empleyado batok sa sexual harassment?",
+		"answer": "Ang mga employers kinahanglan mag-establish og klarong polisiya batok sa sexual harassment ug maghatag og training alang sa mga empleyado."
+	},
+	{
+		"question": "Unsa ang mga rights sa mga biktima sa sexual harassment?",
+		"answer": "Ang mga biktima adunay katungod nga magreport sa insidente, mangayo og proteksyon, ug makadawat og legal assistance."
+	},
+	{
+		"question": "Unsaon pag-imbestigar sa mga reklamo sa sexual harassment?",
+		"answer": "Ang mga institusyon kinahanglan nga maghimo og impartial investigation aron masusi ang mga reklamo ug mahatagan og angay nga aksyon."
+	},
+	{
+		"question": "Unsa ang mga responsibilities sa mga empleyado bahin sa sexual harassment?",
+		"answer": "Ang mga empleyado kinahanglan nga mag-obserbar sa mga polisiya batok sa sexual harassment ug mag-report sa mga insidente."
+	},
+	{
+		"question": "Giunsa pag-report ang sexual harassment?",
+		"answer": "Ang biktima mahimong mag-report sa Human Resource Department o sa mga designated officials sa institusyon."
+	},
+	{
+		"question": "Unsa ang mga preventive measures batok sa sexual harassment?",
+		"answer": "Ang mga institusyon kinahanglan maghimo og training programs, awareness campaigns, ug establish og complaint mechanisms."
+	},
+	{
+		"question": "Kinsa ang mahimong magreklamo sa sexual harassment?",
+		"answer": "Ang bisan kinsa nga nakasinati o nakakita sa sexual harassment mahimong magreklamo."
+	},
+	{
+		"question": "Unsa ang epekto sa sexual harassment sa mga biktima?",
+		"answer": "Ang sexual harassment mahimong magresulta sa psychological trauma, emotional distress, ug pagkahugno sa trabaho o pag-eskwela."
+	},
+	{
+		"question": "Unsa ang mga legal remedies alang sa mga biktima?",
+		"answer": "Ang mga biktima mahimong mag-file og administrative o criminal cases batok sa nag-abuso."
+	},
+	{
+		"question": "Unsa ang gi-require nga training alang sa mga empleyado?",
+		"answer": "Kinahanglan nga ang mga empleyado maka-attend og training nga naghatag og impormasyon kabahin sa sexual harassment ug mga polisiya sa institusyon."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa mga supervisors kung makadawat sila og report sa sexual harassment?",
+		"answer": "Kinahanglan silang mag-imbestiga sa reklamo ug mag-coordinate sa mga authorities kung kinahanglan."
+	},
+	{
+		"question": "Unsa ang dapat buhaton kung ang sexual harassment nagpadayon bisan sa pagreport?",
+		"answer": "Ang biktima kinahanglan nga i-escalate ang reklamo ngadto sa mas taas nga authorities o sa mga legal agencies."
+	},
+	{
+		"question": "Unsa ang mga signs nga nagpakita nga ang usa ka tawo biktima sa sexual harassment?",
+		"answer": "Ang mga signs naglakip sa emotional withdrawal, changes in behavior, ug pagkaputol sa relasyon sa mga kauban."
+	},
+	{
+		"question": "Unsa ang kinahanglan buhaton sa mga institusyon sa pag-monitor sa sexual harassment incidents?",
+		"answer": "Kinahanglan nga ang mga institusyon mag-establish og monitoring system aron masusi ang mga insidente ug masiguro ang accountability."
+	},
+	{
+		"question": "Unsa ang tumong sa RA 7877?",
+		"answer": "Ang tumong sa RA 7877 mao ang paghatag og proteksyon sa mga tawo batok sa sexual harassment sa trabahoan ug eskwelahan."
+	},
+	{
+		"question": "Unsa ang mga epekto sa sexual harassment sa workplace?",
+		"answer": "Ang sexual harassment makapakunhod sa morale, productivity, ug overall wellbeing sa mga empleyado."
+	},
+	{
+		"question": "Kinsa ang mahimong biktima sa sexual harassment?",
+		"answer": "Ang bisan kinsa, lalaki man o babaye, mahimong mahimong biktima sa sexual harassment."
+	},
+	{
+		"question": "Unsaon pag-differentiate sa sexual harassment sa normal nga flirtation?",
+		"answer": "Ang sexual harassment dili gusto nga pagdaug-daug o harassment nga naglakip sa mga pahayag o aksyon nga nagpasakit sa biktima."
+	},
+	{
+		"question": "Unsa ang mga sign nga ang usa ka empleyado nag-antos sa sexual harassment?",
+		"answer": "Ang mga sign naglakip sa pag-usab sa disposisyon, pagkalipay, ug pagkahadlok sa pagtrabaho sa pipila ka tawo."
+	},
+	{
+		"question": "Unsa ang kinahanglan buhaton sa mga employers sa pag-train sa mga empleyado?",
+		"answer": "Kinahanglan nga maghatag og regular training aron masabtan sa mga empleyado ang mga polisiya batok sa sexual harassment."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa pag-resolba sa mga reklamo sa sexual harassment?",
+		"answer": "Kinahanglan nga magsugod sa internal investigation ug, kung gikinahanglan, i-refer sa mga legal authorities."
+	},
+	{
+		"question": "Unsa ang gi-require sa mga institusyon kung adunay reklamo sa sexual harassment?",
+		"answer": "Kinahanglan nga ang institusyon magpatuman og proseso sa imbestigasyon ug hatagan og angay nga aksyon."
+	},
+	{
+		"question": "Kinsay makahatag og legal assistance sa mga biktima?",
+		"answer": "Ang mga biktima mahimong mangayo og tabang gikan sa mga abogado, NGOs, o government agencies nga nag-atiman sa gender-based violence."
+	},
+	{
+		"question": "Unsa ang epekto sa sexual harassment sa mga estudyante?",
+		"answer": "Ang sexual harassment makapakunhod sa academic performance ug makadala sa emotional trauma."
+	},
+	{
+		"question": "Unsa ang mga hakbang nga angay buhaton sa mga schools batok sa sexual harassment?",
+		"answer": "Ang mga eskwelahan kinahanglan maghimo og mga polisiya ug programs nga nag-promote sa safety ug respeto."
+	},
+	{
+		"question": "Unsa ang mga administrative remedies alang sa mga biktima?",
+		"answer": "Ang mga biktima mahimong mag-file og administrative complaints sa mga school officials o sa HR department."
+	},
+	{
+		"question": "Unsa ang papel sa mga parents sa pag-edukar sa ilang mga anak bahin sa sexual harassment?",
+		"answer": "Ang mga parents kinahanglan maghatag og open communication sa ilang mga anak aron sila makasabot sa mga issues sa sexual harassment."
+	},
+	{
+		"question": "Unsaon pag-encourage sa mga biktima nga mag-report?",
+		"answer": "Kinahanglan nga i-pahibalo sa mga biktima nga ang ilang mga reklamo seryoso ug angay nga hatagan og aksyon."
+	},
+	{
+		"question": "Unsa ang mga preventive measures sa sexual harassment sa workplace?",
+		"answer": "Ang mga employers kinahanglan magpatuman og clear policies ug mag-organize og training sessions."
+	},
+	{
+		"question": "Unsa ang mga legal options sa mga biktima sa sexual harassment?",
+		"answer": "Ang mga biktima mahimong mag-file og civil or criminal cases batok sa mga nag-abuso."
+	},
+	{
+		"question": "Giunsa sa mga institusyon pagmonitor sa mga insidente sa sexual harassment?",
+		"answer": "Kinahanglan nga mag-establish og reporting system ug i-analyze ang data aron ma-improve ang mga polisiya."
+	},
+	{
+		"question": "Unsa ang mga responsibilities sa mga bystanders kung makakita sila og sexual harassment?",
+		"answer": "Kinahanglan nga ang mga bystanders mag-report sa insidente ug suporta sa biktima."
+	},
+	{
+		"question": "Unsa ang papel sa mga media sa pag-promote sa awareness bahin sa sexual harassment?",
+		"answer": "Ang media mahimong makatabang sa pag-edukar sa publiko pinaagi sa mga kampanya ug reports sa mga insidente."
+	},
+	{
+		"question": "Unsa ang mga kahimtang nga mahimong magdala sa sexual harassment?",
+		"answer": "Ang mga kahimtang sama sa power imbalance, workplace culture, ug lack of clear policies mahimong magdala sa sexual harassment."
+	},
+	{
+		"question": "Unsaon pag-establish og safe environment alang sa mga biktima sa sexual harassment?",
+		"answer": "Kinahanglan nga i-promote ang open communication, respect, ug transparency sa mga institusyon."
+	},
+	{
+		"question": "Unsaon nimo pag-atubang kung nakadungog ka nga ang imong kauban sa trabaho nagahimo og inappropriate remarks sa usa ka babaye?",
+		"answer": "Dapat nimo siya i-report sa HR department o sa supervisor aron maimbestigahan ang insidente."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ikaw usa ka estudyante ug nakasinati ka og unwanted advances gikan sa imong maestro?",
+		"answer": "Kinahanglan nimo nga i-report kini sa school administrator o sa guidance counselor para sa tabang."
+	},
+	{
+		"question": "Giunsa nimo pag-protektar ang imong kaugalingon sa usa ka social event nga adunay posibilidad nga maharassment?",
+		"answer": "Magpabilin sa grupo sa mga tawo ug likayan ang pag-inom og daghang alcoholic beverages aron klaro ang imong paghunahuna."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung naglibog ka kung ang usa ka joke sa imong kauban kay sexual harassment o dili?",
+		"answer": "Kung naglibog ka, maayo nga pangutan-on ang imong supervisor o HR kung unsay angay buhaton."
+	},
+	{
+		"question": "Unsaon nimo pag-atubang kung ang imong boss nag-persist og unwanted flirting bisan sa pag-ingon nimo nga dili ka interesado?",
+		"answer": "Kinahanglan nga i-report kini sa HR department kay ang pagpangharass sa trabahoan ilegal."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung nakakita ka nga ang imong amigo gi-harass sa usa ka party?",
+		"answer": "Dapat nimo siya tabangan ug i-report ang insidente sa mga authorities o sa organizer sa party."
+	},
+	{
+		"question": "Unsaon nimo pag-rekomenda sa imong kauban sa trabaho nga nag-antos sa sexual harassment?",
+		"answer": "Sultii siya nga mag-report sa HR department ug ipahibalo nga adunay mga support services nga available."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka estudyante sa imong klase nagsulti nga nakasinati siya og harassment sa usa ka gawasnon nga aktibidad?",
+		"answer": "Dapat nimo siya i-encourage nga mag-report sa teacher o sa school counselor."
+	},
+	{
+		"question": "Giunsa nimo paghatag og suporta sa imong kauban nga nag-report sa sexual harassment?",
+		"answer": "Dapat nimo siya paminawon, tabangan siya sa proseso sa pag-report, ug siguruha nga magpabilin siya nga luwas."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong boss naghimo og mga sexual innuendos sa team meeting?",
+		"answer": "Dapat nimo kini i-report sa HR department aron maimbestigahan ang insidente."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung nakadungog ka sa mga estudyante nga nagbuhat og mga sexual jokes bahin sa usa ka kasamang estudyante?",
+		"answer": "Dapat nimo sila pasabton nga ang ilang gibuhat makapasakit sa uban ug kini dili angay."
+	},
+	{
+		"question": "Unsaon nimo pag-atubang kung ang usa ka tao sa opisina nagpadayon sa pag-send og mga sexual messages sa text bisan sa pag-ingon nimo nga dili ka interesado?",
+		"answer": "Kinahanglan nimo siya i-block ang iyang number ug i-report ang iyang binuhatan sa HR."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong kauban sa trabaho nag-attempt nga mag-touch sa imo nga dili nimo gusto?",
+		"answer": "Dapat nimo siya klaruhon nga dili ka komportable ug i-report kini sa HR kung magpadayon siya."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka tawo sa imong komunidad nag-claim nga gi-harass siya sa iyang supervisor?",
+		"answer": "Dapat nimo siya i-encourage nga mag-report sa mga authorities o sa HR sa iyang trabaho."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung nag-atubang ka sa usa ka sitwasyon nga naay sexual harassment sa usa ka public place?",
+		"answer": "Dapat nimo i-report ang insidente sa mga security personnel o sa mga pulis."
+	},
+	{
+		"question": "Giunsa nimo pag-express ang imong concern kung ang usa ka kauban sa trabaho nag-adto sa mga sexual topics sa inyong mga conversation?",
+		"answer": "Sultii siya nga dili ka komportable sa mga topics ug nangayo og respeto sa imong limitasyon."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka kasamahan sa trabaho naghatag og mga sexual comments bahin sa imong appearance?",
+		"answer": "Kinahanglan nimo siya pasabton nga dili ka komportable sa iyang mga comments ug i-report sa HR kung magpadayon."
+	},
+	{
+		"question": "Unsaon nimo pag-reports sa harassment nga nahitabo sa trabahoan?",
+		"answer": "Dapat nimo ipangayo ang form sa pag-report sa HR ug pun-an kini sa detalye sa insidente."
+	},
+	{
+		"question": "Unsa ang angay buhaton kung ang mga kauban sa trabaho nagtan-aw sa usa ka video nga may sexual content sa opisina?",
+		"answer": "Dapat nimo sila pasabton nga dili angay ang pagtan-aw og ingon ana sa trabahoan."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka tawo sa inyong grupo naghatag og mga inappropriate gifts sa mga babaye?",
+		"answer": "Dapat nimo i-report ang iyang binuhatan sa HR kay ang mga gifts mahimong magdala og sexual harassment."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung nakadungog ka sa usa ka biktima nga nag-antos sa mga jokes sa iyang gender?",
+		"answer": "Dapat nimo siya tabangan ug ipakita nga andam ka nga mosuporta sa iyang reklamo."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka kauban nagpadayon sa pag-istorya bahin sa iyang sexual experiences bisan wala nimo gipangayo?",
+		"answer": "Kinahanglan nimo siya i-clarify nga dili ka interesado sa iyang mga stories ug nangayo og respeto sa imong limits."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka kauban nag-claim nga gi-harass siya sa iyang supervisor ug nagkinahanglan og tabang?",
+		"answer": "Kinahanglan nimo siya suportahan ug i-encourage nga mag-report sa HR o sa appropriate authority."
+	},
+	{
+		"question": "Unsaon nimo pagtabang sa usa ka biktima nga naglibog kung unsaon pag-report sa harassment?",
+		"answer": "Hatagi siya og impormasyon bahin sa proseso sa pag-report ug unsay mga pamaagi nga angay buhaton."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka tawo sa inyong grupo naghatag og mga suggestive remarks bahin sa imong kauban?",
+		"answer": "Dapat nimo siya pasabton nga dili angay ang iyang gibuhat ug ipasa ang insidente sa HR."
+	},
+	{
+		"question": "Unsaon nimo pag-address sa usa ka sitwasyon diin ang mga estudyante nagbuhat og sexual harassment sa usa ka kauban?",
+		"answer": "I-report ang insidente sa school administration aron maimbestigahan ug mahatagan og aksyon."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka estudyante naghatag og unsolicited advances sa usa pa?",
+		"answer": "Sultii siya nga ang iyang gibuhat dili angay ug i-report ang insidente sa teacher o counselor."
+	},
+	{
+		"question": "Unsaon nimo pag-atubang kung ang imong supervisor nagpadayon sa pag-dala sa sexual topics sa inyong mga meeting?",
+		"answer": "Kinahanglan nimo siya i-approach ug ipakita nga dili ka komportable sa mga topics ug mag-report sa HR."
+	},
+	{
+		"question": "Giunsa nimo pag-sustento ang usa ka kauban nga nag-antos sa harassment ug nagkinahanglan og counseling?",
+		"answer": "I-refer siya sa mga mental health professionals o sa counseling services nga available sa inyong workplace."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung nakakita ka sa usa ka tawo nga nag-abuso sa iyang authority aron mang-harass?",
+		"answer": "Dapat nimo kini i-report sa higher authorities o sa HR department aron maimbestigahan."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka estudyante sa imong klase nag-sulti nga siya gi-harass sa gawas sa eskwelahan?",
+		"answer": "I-encourage siya nga i-report ang insidente sa mga authorities aron matabangan siya."
+	},
+	{
+		"question": "Unsaon nimo pag-atubang kung nakadungog ka sa usa ka grupo nga nagbuhat og derogatory remarks sa mga babaye?",
+		"answer": "Dapat nimo sila pasabton nga ang ilang gibuhat dili angay ug makapahinabo og negative impact sa uban."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka kauban nag-share og sexually explicit materials sa grupo chat?",
+		"answer": "I-report ang iyang binuhatan sa HR ug i-encourage ang uban nga biktima sa pag-report."
+	},
+	{
+		"question": "Unsa ang angay buhaton kung nakadungog ka nga ang usa ka kauban nag-complain nga gi-harass siya sa online platform?",
+		"answer": "Dapat nimo siya i-encourage nga i-report ang insidente sa mga administrators sa platform."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung naglibog ka kung unsa ang pagtan-aw sa sexual harassment?",
+		"answer": "Mag-research ka o mangayo og advice gikan sa mga expert sa gender issues."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ikaw usa ka witness sa usa ka incident sa sexual harassment?",
+		"answer": "Kinahanglan nimo i-report ang imong nakita sa HR o sa mga authorities aron matabangan ang biktima."
+	},
+	{
+		"question": "Giunsa nimo pagtabang ang imong kauban nga nakasinati og sexual harassment sa trabaho?",
+		"answer": "I-encourage siya nga mag-report ug hatagi siya og moral support sa proseso."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung nakadungog ka nga ang mga empleyado nagbuhat og sexually inappropriate jokes?",
+		"answer": "Dapat nimo sila pasabton nga ang ilang gibuhat makapasakit sa uban ug kinahanglan nga undangon na."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong kauban nagpadayon sa paghatag og unwanted compliments?",
+		"answer": "Dapat nimo siya ipahibalo nga ang iyang mga comments dili kaayo welcome ug makahatag og discomfort."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung nakakita ka sa usa ka tawo nga nag-harass sa usa ka babaye sa public transport?",
+		"answer": "I-report ang insidente sa mga authorities o sa driver sa transport aron matabangan ang biktima."
+	},
+	{
+		"question": "Unsa ang angay buhaton kung nagduda ka nga ang imong kauban nag-antos sa sexual harassment?",
+		"answer": "Dapat nimo siya i-approach ug ipakita nga andam ka nga maminaw ug mosuporta sa iyang sitwasyon."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong boss naghatag og sexual favors alang sa promotions?",
+		"answer": "I-report ang insidente sa HR ug ayaw pagdula-dula sa mga kahimtang nga makadaug-daug."
+	},
+	{
+		"question": "Unsa ang RA 9208?",
+		"answer": "Ang RA 9208 kay ang Anti-Trafficking in Persons Act of 2003 nga nagpasabot sa pagpanalipod sa mga tawo gikan sa human trafficking."
+	},
+	{
+		"question": "Unsa ang mga porma sa human trafficking?",
+		"answer": "Ang human trafficking naglakip sa pagdala, paghatag, pagbaligya, o pagkuha sa tawo pinaagi sa pwersa, panuko, o paglimbong."
+	},
+	{
+		"question": "Kinsa ang mga biktima sa human trafficking?",
+		"answer": "Ang mga biktima sa human trafficking mahimong mga bata, kababaihan, o bisan kinsa nga tawo nga na-expose sa kahimtang sa trafficking."
+	},
+	{
+		"question": "Unsa ang mga penalidad alang sa mga nagbuhat og human trafficking?",
+		"answer": "Ang mga tawo nga guilty sa human trafficking mahimong mahatagan og pagkabilanggo nga gikan sa 12 ka tuig hangtod sa life imprisonment."
+	},
+	{
+		"question": "Giunsa mahibal-an ang human trafficking?",
+		"answer": "Ang human trafficking mahibal-an pinaagi sa mga senyales sama sa pagdaginot sa mga dokumento, dili paghatag og freedom sa mga biktima, ug physical abuse."
+	},
+	{
+		"question": "Unsa ang mga hakbang sa gobyerno aron mapugngan ang human trafficking?",
+		"answer": "Ang gobyerno nagpatuman og mga programa ug polisiya aron sa pag-edukar sa publiko ug pag-rehabilitate sa mga biktima."
+	},
+	{
+		"question": "Unsa ang papel sa mga NGOs sa pag-address sa human trafficking?",
+		"answer": "Ang mga NGOs naghatag og suporta, edukasyon, ug advocacy alang sa mga biktima sa human trafficking."
+	},
+	{
+		"question": "Unsa ang mga senyales nga mahimong biktima sa human trafficking ang usa ka tawo?",
+		"answer": "Ang mga senyales naglakip sa pagkawalay freedom, pagkadakop sa mga dokumento, ug ang pagdawat sa mga kondisyon nga dili maayo."
+	},
+	{
+		"question": "Giunsa maprotektahan ang mga biktima sa human trafficking?",
+		"answer": "Ang mga biktima kinahanglan nga i-refer sa mga shelter o rehabilitation centers aron matabangan sila sa pag-recover."
+	},
+	{
+		"question": "Unsa ang papel sa mga awtoridad sa pag-atubang sa human trafficking?",
+		"answer": "Ang mga awtoridad kinahanglan nga magpatuman sa mga balaod, mag-investiga, ug magpanalipod sa mga biktima."
+	},
+	{
+		"question": "Unsa ang kinahanglan buhaton sa usa ka tawo kung makakita siya og suspected human trafficking?",
+		"answer": "Kinahanglan niya i-report dayon kini sa mga awtoridad o sa mga ahensya nga nag-atiman sa mga kaso sa human trafficking."
+	},
+	{
+		"question": "Unsa ang kahulugan sa 'exploitation' sa konteksto sa human trafficking?",
+		"answer": "Ang 'exploitation' nagpasabot sa pag-usik sa biktima sa pamaagi sa forced labor, sexual exploitation, o uban pang mga pamaagi."
+	},
+	{
+		"question": "Kinsa ang responsable sa pag-implement sa RA 9208?",
+		"answer": "Ang Department of Justice ug ang mga lokal nga ahensya sa gobyerno ang responsable sa pag-implement sa RA 9208."
+	},
+	{
+		"question": "Unsa ang mga rights sa mga biktima sa human trafficking?",
+		"answer": "Ang mga biktima adunay katungod sa proteksyon, rehabilitasyon, ug access sa mga serbisyo sama sa medical assistance."
+	},
+	{
+		"question": "Giunsa mahibal-an kung usa ka tawo gi-traffick?",
+		"answer": "Maaaring mahibal-an kung ang tawo nag-antos sa exploitation, wala’y access sa iyang mga dokumento, ug wala’y kakayahan sa pagdesisyon."
+	},
+	{
+		"question": "Unsa ang mga epekto sa human trafficking sa mga biktima?",
+		"answer": "Ang mga biktima sa human trafficking nag-antos sa pisikal ug mental nga trauma, sosyal nga stigma, ug kakulang sa oportunidad."
+	},
+	{
+		"question": "Unsaon pag-educate sa mga tao bahin sa human trafficking?",
+		"answer": "Makahimo og mga seminar, workshops, ug information campaigns aron mas masabtan sa publiko ang human trafficking."
+	},
+	{
+		"question": "Unsa ang gikinahanglan nga dokumento aron ma-report ang human trafficking?",
+		"answer": "Walay specific nga dokumento nga gikinahanglan, pero importante ang detalyado nga impormasyon sa insidente ug mga involved nga tawo."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa prevention sa human trafficking?",
+		"answer": "Ang mga pamaagi naglakip sa public awareness campaigns, education programs, ug pagpatuman sa mga balaod nga nagpanalipod sa mga biktima."
+	},
+	{
+		"question": "Unsa ang mga aspeto nga gi-address sa RA 9208?",
+		"answer": "Ang RA 9208 nag-address sa prevention, protection, prosecution, ug rehabilitation sa mga biktima sa human trafficking."
+	},
+	{
+		"question": "Unsa ang gipasabot sa 'trafficking in persons'?",
+		"answer": "Ang 'trafficking in persons' nagpasabot sa pagkuha o pagdala sa tawo pinaagi sa pwersa, panuko, o paglimbong sa pag-exploit sa ilaha."
+	},
+	{
+		"question": "Unsa ang mga pamaagi sa human trafficking?",
+		"answer": "Ang mga pamaagi naglakip sa paggamit sa pwersa, banta, deception, ug coercion aron ma-exploit ang mga tawo."
+	},
+	{
+		"question": "Kinsa ang mga awtoridad nga nag-imbestiga sa human trafficking?",
+		"answer": "Ang mga lokal nga kapulisan, National Bureau of Investigation (NBI), ug mga specialized anti-trafficking units ang nag-imbestiga sa mga kaso."
+	},
+	{
+		"question": "Unsaon pag-ila sa mga potential victims sa human trafficking?",
+		"answer": "Ang mga potential victims kasagaran adunay mga senyales sama sa kawalay freedom, pagdawat sa pamaagi sa exploitasyon, ug kakulang sa access sa impormasyon."
+	},
+	{
+		"question": "Unsa ang mga sukaranan nga pagprotekta sa mga biktima sa RA 9208?",
+		"answer": "Ang mga biktima protektado pinaagi sa paghatag og legal assistance, psychological support, ug rehabilitation programs."
+	},
+	{
+		"question": "Unsa ang papel sa mga media sa pag-edukar sa publiko bahin sa human trafficking?",
+		"answer": "Ang media mahimong magdula og importante nga papel pinaagi sa pag-report sa mga insidente, paghatag og impormasyon, ug pagsuporta sa mga kampanya."
+	},
+	{
+		"question": "Unsa ang mga legal remedies nga available sa mga biktima sa human trafficking?",
+		"answer": "Ang mga biktima adunay katungod sa pag-file og kaso, pagdawat sa kompensasyon, ug access sa mga serbisyo nga makahatag og suporta."
+	},
+	{
+		"question": "Unsa ang mga penalties alang sa mga human traffickers?",
+		"answer": "Ang mga human traffickers mahimong mahatagan og pagkabilanggo nga gikan sa 20 ka tuig hangtod sa life imprisonment ug mga fines."
+	},
+	{
+		"question": "Unsaon pag-rehabilitate sa mga biktima sa human trafficking?",
+		"answer": "Ang rehabilitasyon naglakip sa psychosocial support, livelihood programs, ug legal assistance aron matabangan ang mga biktima nga makarecover."
+	},
+	{
+		"question": "Unsa ang kahulugan sa 'consent' sa konteksto sa human trafficking?",
+		"answer": "Ang 'consent' mahimong wala kung ang tawo napugos, gi-bulgar sa kahimtang, o walay kahibalo sa tinuod nga kahimtang."
+	},
+	{
+		"question": "Unsa ang papel sa mga social workers sa pag-atubang sa human trafficking?",
+		"answer": "Ang mga social workers naghatag og counseling, suporta, ug mga serbisyo sa rehabilitasyon sa mga biktima."
+	},
+	{
+		"question": "Unsa ang mga international agreements nga nag-address sa human trafficking?",
+		"answer": "Ang Protocol to Prevent, Suppress and Punish Trafficking in Persons, especially Women and Children usa sa mga international agreements."
+	},
+	{
+		"question": "Unsa ang mga requirements sa pag-apply sa mga programa alang sa mga biktima?",
+		"answer": "Ang mga biktima kinahanglan moapil sa mga assessment aron mahibal-an ang ilang kahimtang ug unsay angay nga serbisyo."
+	},
+	{
+		"question": "Unsa ang mga implications sa trafficking sa mga bata?",
+		"answer": "Ang trafficking sa mga bata nagdala og grabe nga epekto sama sa pagkawalay access sa edukasyon, panglawas, ug seguridad."
+	},
+	{
+		"question": "Unsa ang gikinahanglan nga mga training alang sa mga law enforcement officers?",
+		"answer": "Kinahanglan silang mag-training sa mga isyu sa human trafficking, victim rights, ug mga pamaagi sa pag-imbestiga."
+	},
+	{
+		"question": "Unsa ang mga programa sa awareness nga gipatuman sa gobyerno?",
+		"answer": "Ang gobyerno nagpatuman og mga information campaigns ug outreach programs aron ma-edukar ang publiko sa human trafficking."
+	},
+	{
+		"question": "Giunsa ang epekto sa COVID-19 sa human trafficking?",
+		"answer": "Ang pandemya naghatag og oportunidad sa mga traffickers tungod sa kakulang sa surveillance ug mga kahimtang nga nagpadako sa risgo."
+	},
+	{
+		"question": "Unsa ang gikinahanglan nga suporta alang sa mga survivors sa human trafficking?",
+		"answer": "Kinahanglan nila og medical, psychological, legal, ug livelihood support aron matabangan sila nga makabalik sa normal nga kinabuhi."
+	},
+	{
+		"question": "Unsa ang mga senyales nga ang usa ka negosyo nag-apil sa human trafficking?",
+		"answer": "Mga senyales naglakip sa pag-exploit sa mga empleyado, kawalay transparency sa hiring process, ug mga irregularities sa pagbayad."
+	},
+	{
+		"question": "Unsaon pag-engganyo sa publiko nga mag-report sa human trafficking?",
+		"answer": "Magpatuman og mga kampanya nga mag-awhag sa mga tao sa pag-report sa mga insidente ug ipakita ang mga kahimtang nga mahimong resulta sa trafficking."
+	},
+	{
+		"question": "Unsa ang buhaton kung nakakita ka og usa ka bata nga nag-inusara sa kalsada ug nagpakita og kahadlok?",
+		"answer": "Dapat nimo siya nga dapiton ug pangutan-on kung asa siya gikan, ug kung ang sitwasyon nagkinahanglan, i-report dayon sa mga awtoridad."
+	},
+	{
+		"question": "Nakadungog ka nga ang imong silingan nagpa-abang sa mga bata aron magtrabaho sa iyang negosyo. Unsaon nimo kini pagtan-aw?",
+		"answer": "Dapat ka mag-imbestiga sa sitwasyon ug kung nagtuo ka nga kini usa ka kaso sa trafficking, i-report kini sa lokal nga mga awtoridad."
+	},
+	{
+		"question": "Unsaon pag-ila sa usa ka potensyal nga biktima sa human trafficking?",
+		"answer": "Pangitaa ang mga senyales sama sa kawalay freedom, pag-antos sa physical abuse, ug kakulang sa access sa mga dokumento."
+	},
+	{
+		"question": "Kung ang usa ka tawo nag-atubang sa imong negosyo nga giingong gipugos sila nga magtrabaho, unsa ang imong buhaton?",
+		"answer": "Dapat nimo silang tabangan sa pag-report sa insidente sa mga awtoridad ug i-assist sila nga makapangayo og legal nga suporta."
+	},
+	{
+		"question": "Unsay angay buhaton sa usa ka magtutudlo kung nakamatikod siya sa usa ka estudyante nga nagpakita og senyales sa trafficking?",
+		"answer": "Kinahanglan niyang i-report kini sa school administration ug sa mga ahensya nga nag-atiman sa human trafficking."
+	},
+	{
+		"question": "Kung ang imong amigo nagsulti nga gi-offeran siya og trabaho sa gawas nga wala siya makadawat og klarong impormasyon, unsaon nimo siya pagtabang?",
+		"answer": "Dapat nimo siya nga pasabton nga mag-ingat sa mga oportunity nga ingon niini ug himoa ang tanan aron makakuha og dugang nga impormasyon."
+	},
+	{
+		"question": "Unsay buhaton sa usa ka tawo kung nahibulong siya nga ang iyang gipangita nga trabaho nagpasabot sa pagbiyahe sa layo nga lugar?",
+		"answer": "Kinahanglan siya mag-imbestiga sa legitimacy sa trabaho ug pangitaa ang mga legal nga requirements sa pagbiyahe."
+	},
+	{
+		"question": "Kung ang usa ka biktima sa human trafficking naghangyo sa imong tabang, unsay angay buhaton?",
+		"answer": "Dapat nimo silang pasigurohon nga sila luwas ug i-report dayon ang insidente sa mga awtoridad."
+	},
+	{
+		"question": "Unsa ang dapat buhaton kung ang usa ka tawong imong nailhan naay mga irregularities sa ilang employment documents?",
+		"answer": "Dapat ka mag-report sa mga awtoridad ug tabangan sila nga mahibal-an ang tinuod nga kahimtang."
+	},
+	{
+		"question": "Kung nakakita ka og grupo sa mga kababaihan nga naglakaw nga nagkinahanglan og tabang, unsaon nimo kini pag-atubang?",
+		"answer": "Dapat nimo silang pangutan-on sa ilang kahimtang ug i-report sa mga awtoridad kung nagtuo ka nga sila mga biktima sa trafficking."
+	},
+	{
+		"question": "Unsaon nimo pagtabang sa usa ka tawo nga nahibilin sa situwasyon sa trafficking?",
+		"answer": "Himoon ang pag-refer kanila sa mga shelter o rehabilitation centers nga nag-atiman sa mga biktima."
+	},
+	{
+		"question": "Kung ang usa ka biktima sa trafficking magtawag nimo ug mangayo og tabang, unsa ang dapat buhaton?",
+		"answer": "Dapat nimo silang paminawon, tabangan sila sa pag-organize sa ilang dokumento, ug i-report ang insidente sa mga awtoridad."
+	},
+	{
+		"question": "Unsa ang dapat buhaton sa mga magtutudlo kung adunay balita sa ilang eskwelahan nga ang mga estudyante nagpasugot sa pagtrabaho sa illegal nga pamaagi?",
+		"answer": "Kinahanglan nilang i-report ang sitwasyon sa mga awtoridad ug ipahibalo ang mga ginikanan."
+	},
+	{
+		"question": "Kung adunay nahitabo nga trafficking sa inyong komunidad, unsa ang mga pamaagi sa pag-recover sa mga biktima?",
+		"answer": "Ang mga biktima kinahanglan i-refer sa rehabilitation programs ug tabangan sa pag-access sa mga serbisyo."
+	},
+	{
+		"question": "Unsaon nimo pag-educate ang imong komunidad bahin sa human trafficking?",
+		"answer": "Mag-organize og mga seminars ug workshops aron ipasabut ang mga senyales sa trafficking ug unsaon kini pag-report."
+	},
+	{
+		"question": "Kung ang usa ka biktima nagpasabot nga sila gi-atake sa ilang employer, unsa ang imong buhaton?",
+		"answer": "Dapat nimo silang tabangan sa pag-report sa mga insidente ug himoa ang tanan aron masiguro ang ilang seguridad."
+	},
+	{
+		"question": "Kung ang usa ka biktima sa trafficking magtawag ug naghangyo sa imong tabang, unsa ang angay nimo buhaton?",
+		"answer": "Himoon ang pagtabang nga makapangayo og legal nga suporta ug rehabilitasyon."
+	},
+	{
+		"question": "Unsa ang buhaton kung nakakita ka og website nga nag-promote og illegal recruitment?",
+		"answer": "I-report ang website sa mga awtoridad ug sa mga ahensya nga nag-atiman sa trafficking."
+	},
+	{
+		"question": "Unsaon pag-ila kung ang usa ka recruitment agency walay lig-on nga credentials?",
+		"answer": "Pangitaa ang mga review ug feedback gikan sa mga nanggawas nga kliyente ug siguruha ang pag-verify sa registration sa agency."
+	},
+	{
+		"question": "Kung nakadungog ka og balita nga ang imong silingan nagbansay-bansay sa mga bata, unsa ang imong buhaton?",
+		"answer": "I-report kini sa mga awtoridad kay posible nga kini usa ka kaso sa trafficking."
+	},
+	{
+		"question": "Unsa ang angay buhaton sa mga kababaihan nga nagplano sa pagbiyahe sa gawas sa nasud?",
+		"answer": "Kinahanglan nilang siguruhon nga sila adunay legal nga visa ug klaro nga trabaho nga nakaseguro sa ilang kaluwasan."
+	},
+	{
+		"question": "Kung ang usa ka tawo nagkuhag mga bata nga wala sa ilang pamilya, unsa ang imong buhaton?",
+		"answer": "I-report kini sa mga awtoridad kay posible nga sila nag-apil sa trafficking."
+	},
+	{
+		"question": "Unsa ang mga buhaton kung ang imong amiga nagsulti nga nakadawat siya og mubo nga impormasyon sa iyang bag-ong trabaho?",
+		"answer": "Dapat nimo siya pasabton sa mga risgo ug pasigurohon nga kini usa ka legal nga oportunidad."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung nakakita ka og grupo sa mga tawo nga nagtipon sa usa ka lugar ug nagpakita og kahadlok?",
+		"answer": "Dapat nimo sila pangutan-on sa ilang sitwasyon ug kung nagtuo ka nga sila mga biktima sa trafficking, i-report sa mga awtoridad."
+	},
+	{
+		"question": "Nakatagbo ka og usa ka tawo nga nag-ingon nga na-trafficked siya sa laing nasud. Unsaon nimo siya pagtabang?",
+		"answer": "I-encourage siya nga mag-report sa mga ahensya nga nag-atiman sa mga biktima sa trafficking ug tabangan siya sa pag-access sa mga serbisyo."
+	},
+	{
+		"question": "Unsaon nimo pag-verify kung ang usa ka recruitment agency legal?",
+		"answer": "Susiha ang ilang mga dokumento, tan-awa ang reviews online, ug siguruha nga sila nakarehistro sa gobyerno."
+	},
+	{
+		"question": "Kung ang usa ka bata nagpasabot nga gi-pugos siya nga magtrabaho sa balay sa uban, unsa ang imong buhaton?",
+		"answer": "I-report ang sitwasyon sa mga ahensya nga nag-atiman sa mga bata ug human trafficking aron matabangan siya."
+	},
+	{
+		"question": "Unsa ang mga senyales nga ang usa ka tawo mahimong biktima sa trafficking?",
+		"answer": "Ang mga senyales naglakip sa kawalay freedom, physical injuries, ug pagkawalay access sa communication."
+	},
+	{
+		"question": "Kung ang imong silingan nag-recruit sa mga tawo nga wala mahibalo sa detalye sa trabaho, unsa ang imong buhaton?",
+		"answer": "Dapat ka mag-ingon sa mga awtoridad kay posible kini nga trafficking."
+	},
+	{
+		"question": "Unsa ang angay nimo buhaton kung ang usa ka tawo nangayo og tabang sa pagbiya sa ilang abusive employer?",
+		"answer": "Dapat nimo silang tabangan sa pag-access sa legal assistance ug i-report ang sitwasyon sa mga ahensya."
+	},
+	{
+		"question": "Kung ang usa ka tawo nag-ingon nga gibantayan sila sa ilang employer, unsaon nimo sila pagtabang?",
+		"answer": "I-encourage sila nga mag-report sa mga awtoridad ug tabangi sila sa pagkuha og suporta."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung nakadungog ka og kasikas sa palibot nga adunay trafficking nga mahitabo?",
+		"answer": "I-report ang sitwasyon sa mga lokal nga kapulisan o sa mga ahensya nga nag-atiman sa human trafficking."
+	},
+	{
+		"question": "Kung ang imong amigo nagplano sa pagbiyahe nga walay klarong impormasyon, unsa ang imong maingon?",
+		"answer": "Pasabti siya nga ang kakulang sa impormasyon mahimong usa ka risgo ug mag-research siya sa mga detalye sa trabaho."
+	},
+	{
+		"question": "Nakadungog ka nga ang usa ka grupo sa mga kababaihan gi-hire sa illegal nga trabaho. Unsa ang imong buhaton?",
+		"answer": "I-report ang sitwasyon sa mga awtoridad aron sila maimbestigahan ug matabangan."
+	},
+	{
+		"question": "Kung ang usa ka tawo nagkinahanglan og tabang sa pag-exit sa usa ka trafficking situation, unsa ang imong buhaton?",
+		"answer": "Dapat nimo silang pasabton sa mga pamaagi sa pag-report ug tabangan sila sa pag-access sa mga serbisyo."
+	},
+	{
+		"question": "Kung nagplano ka sa pag-adto sa gawas sa nasud, unsaon nimo pag-andam aron malikayan ang trafficking?",
+		"answer": "Siguraduhon ang legal nga visa, pag-research sa employer, ug pangitaa ang mga impormasyon bahin sa safety."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang imong mga ginikanan nagduda nga ikaw gi-traffick?",
+		"answer": "Dapat nimo sila pasabton sa imong sitwasyon ug mag-refer sa mga ahensya nga makahatag og tabang."
+	},
+	{
+		"question": "Kung ang imong amigo nag-ingon nga wala siya makabaton og sweldo sa iyang trabaho, unsa ang imong sugyot?",
+		"answer": "Siyempre, kinahanglan nimo siyang pasabton nga mag-report sa mga ahensya nga nag-atiman sa labor rights."
+	},
+	{
+		"question": "Kung nakakita ka og mga bata nga nagtrabaho sa kalsada, unsaon nimo kini pag-atubang?",
+		"answer": "I-report dayon ang sitwasyon sa mga awtoridad ug sa mga ahensya nga nag-atiman sa mga bata."
+	},
+	{
+		"question": "Unsaon pag-educate ang mga kabataan bahin sa human trafficking?",
+		"answer": "Mag-organize og mga seminars sa mga eskwelahan aron ipasabut ang mga senyales sa trafficking."
+	},
+	{
+		"question": "Kung ang usa ka kabataan nag-ingon nga siya gipugos sa mga higala nga magamit sa illegal nga negosyo, unsa ang imong buhaton?",
+		"answer": "Dapat nimo siyang tabangan nga makuha ang suporta sa mga awtoridad ug counselor."
+	},
+	{
+		"question": "Unsa ang imong mahimo aron magtabang sa mga biktima sa trafficking sa imong komunidad?",
+		"answer": "Mag-organize og mga donation drives para sa mga shelter ug rehabilitation centers."
+	},
+	{
+		"question": "Kung ang usa ka tawo nagsulti nga siya gikuha sa laing nasud nga wala niya gusto, unsa ang imong sugyot?",
+		"answer": "I-encourage siya nga mag-report sa mga lokal nga awtoridad ug sa embahada sa nasud."
+	},
+	{
+		"question": "Unsa ang imong buhaton kung ang usa ka tawo nag-report sa imong opisina nga siya gi-exploit?",
+		"answer": "Dapat nimo siya tabangan nga ma-access ang legal nga tabang ug i-report ang insidente sa mga awtoridad."
+	},
+	{
+		"question": "Kung ang imong amiga nag-ingon nga napugos siya sa pagpamaligya sa kaugalingon, unsaon nimo siya pagtabang?",
+		"answer": "Dapat nimo siyang pasabton nga naay mga ahensya nga makatabang sa mga biktima sa trafficking."
+	}
+]
+}

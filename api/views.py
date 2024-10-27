@@ -14,16 +14,14 @@ from rest_framework.decorators import api_view
 from django.conf import settings
 BASE_DIR = settings.BASE_DIR
 
-
-import os
-import json
-import logging
-from typing import Optional, List
 from sentence_transformers import SentenceTransformer, util
-from rest_framework import viewsets, status
-import fitz  # PyMuPDF
-from typing import List, Optional
-from pathlib import Path
+import torch
+import json
+from difflib import get_close_matches
+from django.conf import settings
+import os
+BASE_DIR = settings.BASE_DIR
+
 class CreateUserView(generics.CreateAPIView):
     queryset = User.objects.all()
     serializer_class = UserSerializer
@@ -68,96 +66,70 @@ class UserDetailView(generics.RetrieveAPIView):
 
 
 
+# Load the model once when the application starts
+model = SentenceTransformer('all-MiniLM-L6-v2')  # Lightweight and efficient model for embeddings
 
+BASE_DIR = settings.BASE_DIR  # Set your project's base directory
 
+# Load the knowledge base from a JSON file
+def load_knowledge_base(file_path: str):
+    full_path = os.path.join(BASE_DIR, file_path)
+    with open(full_path, 'r') as file:
+        data = json.load(file)
+    return data
 
+# Save the updated knowledge base to the JSON file
+def save_knowledge_base(file_path: str, data: dict):
+    full_path = os.path.join(BASE_DIR, file_path)
+    with open(full_path, 'w') as file:
+        json.dump(data, file, indent=2)
 
+# Generate embeddings for each question in the knowledge base
+def embed_questions(questions):
+    return model.encode(questions, convert_to_tensor=True)
 
-
-
-import logging
-import os
-from typing import List, Optional
-from rest_framework import viewsets, status
-from rest_framework.response import Response
-import fitz  # PyMuPDF
-from sentence_transformers import SentenceTransformer, util
-
-# Configure logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
-
-
-# Define the relative path to the PDF file
-def get_pdf_path() -> str:
-    # Path to the PDF file relative to this script
-    return str(Path(__file__).parent / 'knowledge_base.pdf')
-
-def load_pdf(file_path: str) -> str:
-    try:
-        full_path = file_path
-        if not os.path.exists(full_path):
-            logger.error(f"PDF file does not exist at: {full_path}")
-            return ""
-        with fitz.open(full_path) as pdf_file:
-            text = ""
-            for page_num in range(pdf_file.page_count):
-                page = pdf_file.load_page(page_num)
-                text += page.get_text()
-            logger.info("PDF loaded successfully.")
-            return text
-    except Exception as e:
-        logger.error(f"Error loading PDF: {e}")
-        return ""
-
-# Split the extracted text into chunks for easier searching
-def split_text_into_chunks(text: str, chunk_size: int = 800) -> List[str]:
-    return [text[i:i + chunk_size] for i in range(0, len(text), chunk_size)]
-
-model = SentenceTransformer('all-MiniLM-L6-v2')
-
-# Encode the text chunks
-def encode_chunks(chunks: List[str]) -> List:
-    return model.encode(chunks, convert_to_tensor=True)
-
-# Find the best matching text chunk for a user question
-def find_best_match_in_pdf(user_question: str, text_chunks: List[str], threshold: float = 0.1) -> Optional[str]:
+# Match user question with the highest similarity score
+def find_best_match(user_question: str, questions: list[str]) -> str | None:
+    question_embeddings = embed_questions(questions)
     user_question_embedding = model.encode(user_question, convert_to_tensor=True)
-    chunk_embeddings = encode_chunks(text_chunks)
-    similarities = util.pytorch_cos_sim(user_question_embedding, chunk_embeddings)
-    
-    logger.info(f"User question embedding: {user_question_embedding}")
-    logger.info(f"Chunk embeddings: {chunk_embeddings}")
-    logger.info(f"Similarities: {similarities}")
+    similarity_scores = util.pytorch_cos_sim(user_question_embedding, question_embeddings)
+    best_match_index = torch.argmax(similarity_scores)
 
-    most_similar_idx = similarities.argmax()
-    logger.info(f"Most similar index: {most_similar_idx}")
-    logger.info(f"Highest similarity score: {similarities.max()}")
+    # Return the question with the highest similarity score above a threshold
+    if similarity_scores[0][best_match_index] > 0.6:  # Adjust the threshold as needed
+        return questions[best_match_index]
+    return None
 
-    return text_chunks[most_similar_idx] if similarities.max() > threshold else None
+# Retrieve the answer for a given question
+def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
+    for q in knowledge_base["questions"]:
+        if q["question"] == question:
+            return q["answer"]
+    return None
 
 class ChatbotViewSet(viewsets.ViewSet):
     serializer_class = ChatbotSerializer
+
+    # Ensure authentication is disabled for this view
+    authentication_classes = []
+    permission_classes = [AllowAny]
 
     def create(self, request, *args, **kwargs):
         serializer = self.serializer_class(data=request.data)
         if serializer.is_valid():
             user_question = serializer.validated_data['question']
-            
-            # Load and process the PDF file
-            pdf_path = get_pdf_path()  # Get the relative path
-            pdf_text = load_pdf(pdf_path)
-            if not pdf_text:
-                return Response({'answer': "I don't understand the question."}, status=status.HTTP_200_OK)
+            knowledge_base = load_knowledge_base('knowledge_base.json')
+            questions = [q["question"] for q in knowledge_base["questions"]]
+            best_match = find_best_match(user_question, questions)
 
-            text_chunks = split_text_into_chunks(pdf_text)
-            logger.info(f"Text chunks: {text_chunks[:3]}")  # Log first few chunks for inspection
-
-            # Find the best match in the PDF text
-            answer = find_best_match_in_pdf(user_question, text_chunks)
-
-            if answer:
-                return Response({'answer': answer}, status=status.HTTP_200_OK)
+            if best_match:
+                answer = get_answer_for_question(best_match, knowledge_base)
+                if answer:  # Check if answer is not None
+                    # Replace pipe with newline for better formatting
+                    formatted_answer = answer.replace('|', '\n').strip()
+                    return Response({'answer': formatted_answer}, status=status.HTTP_200_OK)
+                else:
+                    return Response({'answer': "I couldn't find an answer for that."}, status=status.HTTP_200_OK)
             else:
                 return Response({'answer': "I don't understand the question."}, status=status.HTTP_200_OK)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
