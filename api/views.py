@@ -129,7 +129,7 @@ class ChatbotViewSet(viewsets.ViewSet):
                     formatted_answer = answer.replace('|', '\n').strip()
                     return Response({'answer': formatted_answer}, status=status.HTTP_200_OK)
                 else:
-                    return Response({'answer': "I couldn't find an answer for that."}, status=status.HTTP_200_OK)
+                    return Response({'answer': "Wala ko'y nakita nga tubag para ana."}, status=status.HTTP_200_OK)
             else:
-                return Response({'answer': "I don't understand the question."}, status=status.HTTP_200_OK)
+                return Response({'answer': "Wala ko kasabot sa pangutana. Palihug pangutana sa Cebuano."}, status=status.HTTP_200_OK)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)

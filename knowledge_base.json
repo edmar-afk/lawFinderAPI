@@ -1,8 +1,5 @@
 {	"questions": [
-	{
-		"question": "What is the color of the sky?",
-		"answer": "Blue"
-	},
+	{ "question": "What is the color of the sky?", "answer": "Blue" },
 	{
 		"question": "how are you",
 		"answer": "I'm doing great!"
@@ -2094,6 +2091,90 @@
 	{
 		"question": "Kung ang imong amiga nag-ingon nga napugos siya sa pagpamaligya sa kaugalingon, unsaon nimo siya pagtabang?",
 		"answer": "Dapat nimo siyang pasabton nga naay mga ahensya nga makatabang sa mga biktima sa trafficking."
+	},
+	{
+		"question": "Kaso sa mga bana nga manapat ug asawa.",
+		"answer": "Ang kaso sa mga bana nga manapat sa ilang asawa kay seryosong isyu nga kinahanglan tagaan og hustong pagtagad. Ang pagpanapat sa asawa usa ka klase sa \"domestic violence\" o \"pagpang-abuso sa sulod sa balay,\" ug adunay mga balaod nga nagpanalipod sa mga biktima niini. Sa Pilipinas, naa ang Republic Act No. 9262 o ang Anti-Violence Against Women and Their Children Act of 2004 nga nagahatag og proteksyon alang sa mga kababayen-an ug ilang mga anak. Kini nga balaod naglatid nga ang bisan unsang klase sa pisikal, emosyonal, sikolohikal, o sekswal nga pagpang-abuso sa asawa o anak, ilabi na kung gikan kini sa kapikas, ilegal ug mahimong ipasaka og kaso."
+	},
+	{
+		"question": "Unsa ang Republic Act No. 7610?",
+		"answer": "Ang Republic Act No. 7610 o Special Protection of Children Against Abuse, Exploitation, and Discrimination Act kay usa ka balaod nga naghatag og proteksyon sa mga bata batok sa tanang porma sa abuso ug eksploytasyon."
+	},
+	{
+		"question": "Unsa ang buhaton sa ginikanan kung naay mga sinyales nga abusado ang ilang anak?",
+		"answer": "Kung ang ginikanan makita nga naay sinyales sa pag-abuso ang ilang anak, kinahanglan sila mo-report dayon sa DSWD o sa police station para mapaimbestigahan ug matabangan ang bata."
+	},
+	{
+		"question": "Unsa ang mga silot alang sa mga tao nga manakit ug mga bata?",
+		"answer": "Ang mga tao nga masakpan nga manakit og bata mahimong makaatubang og presohan ug bayad pinansyal sumala sa Republic Act No. 7610, nga naglatid og dagkong silot alang sa mga abusador."
+	},
+	{
+		"question": "Unsa ang Anti-Violence Against Women and Their Children Act of 2004?",
+		"answer": "Ang Anti-Violence Against Women and Their Children Act of 2004 (Republic Act No. 9262) nagproteher sa mga kababayen-an ug ilang mga anak batok sa tanan nga porma sa pang-abuso gikan sa ilang kapikas o ka-live-in partner."
+	},
+	{
+		"question": "Unsa ang mga porma sa pang-abuso nga giapil sa Republic Act No. 9262?",
+		"answer": "Ang Republic Act No. 9262 naglakip sa pisikal, emosyonal, sikolohikal, ug sekswal nga pagpang-abuso nga mahimo batok sa mga kababayen-an ug ilang mga anak, ilabi na kung gikan kini sa kapikas."
+	},
+	{
+		"question": "Unsaon pag-report sa child abuse sa Pilipinas?",
+		"answer": "Para mo-report og child abuse, ang biktima o mga ginikanan mahimong moadto sa DSWD, barangay, o police station aron mabutang sa record ug matabangan ang bata nga mapanalipdan."
+	},
+	{
+		"question": "Unsa ang silot sa pagpang-abuso sa asawa?",
+		"answer": "Sumala sa Republic Act No. 9262, ang pagpang-abuso sa asawa pinaagi sa pisikal o sikolohikal nga paagi mahimong mapriso ug adunay mga pinansyal nga silot alang sa nagbuhat niini."
+	},
+	{
+		"question": "Unsaon pagpangayo og proteksyon kung abusado ang bana?",
+		"answer": "Ang biktima mahimong mopetisyon sa korte alang sa 'Protection Order' nga magpugong sa abusadong bana gikan sa pagduol o pagpanghilabot sa iyang asawa ug mga anak, subay sa Republic Act No. 9262."
+	},
+	{
+		"question": "Unsa ang mga silot alang sa child trafficking?",
+		"answer": "Ang child trafficking illegal ug aduna kini mga silot nga moabot sa habambuhong nga pagkabilanggo ug dakong bayad pinansyal alang sa mga involve, sumala sa mga balaod sa child protection ug human trafficking."
+	},
+	{
+		"question": "Unsa ang buhaton kung ang bata nabiktima og sexual abuse?",
+		"answer": "Ang biktima kinahanglan dali nga i-report sa Women and Children Protection Desk sa PNP o sa DSWD aron magdungan ang imbestigasyon ug psychological support alang sa bata."
+	},
+	{
+		"question": "Unsaon pagpangayo og 'Permanent Protection Order' para sa biktima sa abuso?",
+		"answer": "Para makakuha og 'Permanent Protection Order' batok sa abusadong kapikas, ang biktima kinahanglan mag-file og petisyon sa korte pinaagi sa Republic Act No. 9262, ug magpresentar og ebidensya sa pang-abuso."
+	},
+	{
+		"question": "Unsa ang Republic Act No. 9208?",
+		"answer": "Ang Republic Act No. 9208 o Anti-Trafficking in Persons Act nagpanalipod sa kababayen-an ug mga bata batok sa pagpang-traffick alang sa sekswal nga eksploytasyon, pwersadong trabaho, ug uban pang porma sa abusadong pagtrabaho."
+	},
+	{
+		"question": "Unsa ang mga kaparentihan nga mahimong mangayo og proteksyon alang sa bata nga biktima?",
+		"answer": "Ang ginikanan, paryente, o bisan ang DSWD mahimong mopetisyon sa korte alang sa proteksyon sa usa ka bata nga biktima sa pag-abuso kung makita nga delikado ang sitwasyon sa bata."
+	},
+	{
+		"question": "Unsa ang pamaagi sa legal nga pagkaklaro sa kaso sa pagpang-abuso?",
+		"answer": "Sa legal nga pagkaklaro sa kaso sa pagpang-abuso, kinahanglan nga mag-report sa police, magkuha og medico-legal nga ebidensya, ug magpadayon sa korte aron mahatagan og hustisya ang biktima."
+	},
+	{
+		"question": "Unsa ang Safe Spaces Act?",
+		"answer": "Ang Safe Spaces Act o Republic Act No. 11313 naglatid og mga pamaagi alang sa proteksyon batok sa tanang porma sa harassment, ilabi na ang mga kababayen-an, ug naglatid og mga silot alang sa mangingilabot."
+	},
+	{
+		"question": "Unsa ang buhaton sa biktima sa human trafficking?",
+		"answer": "Ang biktima sa human trafficking mahimong mokontak sa DSWD, NBI, o sa barangay aron makakuha og tabang ug proteksyon sumala sa Republic Act No. 9208 o Anti-Trafficking in Persons Act."
+	},
+	{
+		"question": "Unsa ang mga benepisyo nga makuha sa biktima sa pang-abuso?",
+		"answer": "Ang mga biktima sa pang-abuso mahimong makakuha og 'psycho-social support', financial assistance, ug housing support gikan sa DSWD ug NGOs nga nagtabang sa mga biktima sa pag-recover."
+	},
+	{
+		"question": "Unsa ang Protection Order para sa mga kababayen-an?",
+		"answer": "Ang Protection Order usa ka legal nga dokumento nga gipagawas sa korte aron mapanalipdan ang mga biktima batok sa pang-abuso sa ilang kapikas ug mahimo kini nga temporaryo o permanente depende sa kaso."
+	},
+	{
+		"question": "Unsaon pag-report sa kaso nga adunay pisikal nga abuso?",
+		"answer": "Kung adunay pisikal nga abuso, ang biktima kinahanglan mopadulong sa Women and Children Protection Desk sa PNP ug magpa-blotter aron mapaabot ang insidente ug magamit kini nga ebidensya sa korte."
+	},
+	{
+		"question": "Unsa ang silot sa pag-post sa malisyosong mga litrato o video nga walay pagtugot?",
+		"answer": "Ang malisyosong pagpost og litrato o video nga walay pagtugot, ilabi na ang pag-expose sa kababayen-an, usa ka kalapasan sa Republic Act No. 9995 o Anti-Photo and Video Voyeurism Act nga adunay grabe nga silot."
 	}
 ]
 }
