@@ -1,5 +1,4 @@
-{	"questions": [
-	{ "question": "What is the color of the sky?", "answer": "Blue" },
+{	"questions": [	{ "question": "What is the color of the sky?", "answer": "Blue" },
 	{
 		"question": "how are you",
 		"answer": "I'm doing great!"
@@ -2175,6 +2174,26 @@
 	{
 		"question": "Unsa ang silot sa pag-post sa malisyosong mga litrato o video nga walay pagtugot?",
 		"answer": "Ang malisyosong pagpost og litrato o video nga walay pagtugot, ilabi na ang pag-expose sa kababayen-an, usa ka kalapasan sa Republic Act No. 9995 o Anti-Photo and Video Voyeurism Act nga adunay grabe nga silot."
+	},
+	{
+		"question": "What is Physical violence?",
+		"answer": "Physical violence refers to the use of physical force against someone in a way that injures or endangers them. It includes actions like hitting, punching, slapping, and any form of physical aggression."
+	},
+	{
+		"question": "What is Sexual violence?",
+		"answer": "Sexual violence is any sexual act or attempt to obtain a sexual act by violence or coercion. This includes acts such as rape, sexual harassment, and forcing someone into unwanted sexual activities."
+	},
+	{
+		"question": "What is Psychological violence?",
+		"answer": "Psychological violence involves causing emotional harm or distress to someone through threats, intimidation, or other psychological tactics. This may include manipulation, isolation, or verbal abuse aimed at undermining the victim’s mental wellbeing."
+	},
+	{
+		"question": "What is Economic abuse?",
+		"answer": "Economic abuse is a form of abuse where one person controls another's access to financial resources, limiting their ability to support themselves and forcing dependence. This can involve controlling income, denying access to money, or preventing someone from working."
+	},
+	{
+		"question": "What is Emotional or Psychological abuse?",
+		"answer": "Emotional or psychological abuse includes behaviors that harm an individual's self-worth or emotional wellbeing. It often includes actions like criticism, humiliation, isolation, and undermining someone's confidence or mental stability."
 	}
 ]
 }
